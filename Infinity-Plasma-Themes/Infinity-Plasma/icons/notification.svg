@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="notification.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   id="svg881"
+   version="1.1"
+   viewBox="0 0 22 22"
+   height="5.8208332mm"
+   width="5.8208332mm">
+  <defs
+     id="defs875" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:lockguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="22.188183"
+     inkscape:cx="83.745831"
+     inkscape:zoom="3.3783993"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata878">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-209.82493,-686.24546)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(248.82493,685.24546)"
+       id="notification-progress-active">
+      <path
+         d="M 1,1 H 23 V 23 H 1 Z"
+         id="empty-rectangle"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <circle
+         style="fill:#08a19d;fill-opacity:1"
+         class="ColorScheme-ButtonFocus"
+         r="8"
+         cy="12"
+         cx="12"
+         id="circle-blue" />
+    </g>
+    <g
+       transform="translate(208.82493,685.24546)"
+       id="notification-inactive">
+      <path
+         id="path6"
+         d="M 1,1 H 23 V 23 H 1 Z"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd"
+         id="path8"
+         class="ColorScheme-Text"
+         d="M 10.269531,17 A 2,2 0 0 0 9.9999998,18 2,2 0 0 0 12,20 2,2 0 0 0 14,18 2,2 0 0 0 13.728516,17 Z M 12,4 A 1,1 0 0 0 11,5 1,1 0 0 0 11.0098,5.1289062 3.9999999,3.9999999 0 0 0 7.9999998,9 c 0,3 -1,4 -3,6 v 1 H 19 V 15 C 17,13 16,12 16,9 A 3.9999999,3.9999999 0 0 0 12.990234,5.1289062 1,1 0 0 0 13,5 1,1 0 0 0 12,4 Z m 0,2 a 3,3 0 0 1 3,3 c 0,3 0.585938,4 2.585938,6 H 6.4140618 c 2,-2 2.5859375,-3 2.5859375,-6 A 3,3 0 0 1 12,6 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(248.82493,725.24546)"
+       id="notification-progress-inactive">
+      <path
+         d="M 1,1 H 23 V 23 H 1 Z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <circle
+         style="opacity:0.5;fill:#3f9eff;fill-opacity:1"
+         class="ColorScheme-Text"
+         r="8"
+         cy="12"
+         cx="12"
+         id="circle-transparent" />
+    </g>
+    <g
+       transform="translate(208.82493,725.24546)"
+       id="notification-active">
+      <path
+         id="path14"
+         d="M 1,1 H 23 V 23 H 1 Z"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         style="fill:#08a19d;fill-opacity:1;fill-rule:evenodd"
+         id="path16"
+         class="ColorScheme-Text"
+         d="M 6.3457031,3.345703 A 7.9999995,7.9999995 0 0 0 4,9 H 5 A 7,7 0 0 1 7.0527344,4.052734 Z m 11.3085939,0 -0.707031,0.707031 A 7,7 0 0 1 19,9 h 1 A 7.9999995,7.9999995 0 0 0 17.654297,3.345703 Z M 16.238281,4.761719 15.529297,5.470703 A 5,5 0 0 1 17,9 h 1 A 6,6 0 0 0 16.238281,4.761719 Z M 7.765625,4.765625 A 6,6 0 0 0 6,9 H 7 A 5,5 0 0 1 8.4667969,5.466797 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd"
+         id="path18"
+         class="ColorScheme-Text"
+         d="M 10.269531,17 A 2,2 0 0 0 10,18 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -0.271484,-1 z M 12,4 A 1,1 0 0 0 11,5 1,1 0 0 0 11.0098,5.128906 3.9999999,3.9999999 0 0 0 8,9 c 0,3 -1,4 -3,6 v 1 H 19 V 15 C 17,13 16,12 16,9 A 3.9999999,3.9999999 0 0 0 12.990234,5.128906 1,1 0 0 0 13,5 1,1 0 0 0 12,4 Z m 0,2 a 3,3 0 0 1 3,3 c 0,3 0.585938,4 2.585938,6 H 6.414062 c 2,-2 2.5859375,-3 2.5859375,-6 A 3,3 0 0 1 12,6 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#08a19d;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 191.82493,709.24546 2,-2 2,2 z"
+       id="expander-bottom"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#08a19d;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 191.82493,703.24546 2,2 2,-2 z"
+       id="expander-top"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#08a19d;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 196.82493,704.24546 -2,2 2,2 z"
+       id="expander-right"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#08a19d;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 190.82493,704.24546 2,2 -2,2 z"
+       id="expander-left"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(208.82493,645.24546)"
+       id="notification-disabled">
+      <path
+         id="path25"
+         d="M 1,1 H 23 V 23 H 1 Z"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         style="fill:#ff557f;fill-opacity:1"
+         d="M 4,4.707031 19.292969,20 20,19.292969 4.7070312,4 Z"
+         id="strikethrough"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#d3dae3;fill-opacity:1;fill-rule:evenodd"
+         id="path28"
+         class="ColorScheme-Text"
+         d="M 12,4 A 1,1 0 0 0 11,5 1,1 0 0 0 11.0098,5.128906 3.9999999,3.9999999 0 0 0 8.7695652,6.648438 L 9.4863281,7.365234 A 3,3 0 0 1 12,6 3,3 0 0 1 15,9 c 0,3 0.585938,4 2.585938,6 h -0.464844 l 1,1 H 19 V 15 C 17,13 16,12 16,9 A 3.9999999,3.9999999 0 0 0 12.990234,5.128906 1,1 0 0 0 13,5 1,1 0 0 0 12,4 Z M 7.9472656,10.068359 C 7.7219031,12.273085 6.7411309,13.258869 5,15 v 1 h 8.878906 l -1,-1 H 6.4140625 C 7.8937066,13.520356 8.5962396,12.584141 8.8632812,10.984375 Z M 10.269531,17 A 2,2 0 0 0 10,18 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -0.271484,-1 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(248.82493,645.24546)"
+       id="notification-empty">
+      <path
+         d="M 1,1 H 23 V 23 H 1 Z"
+         id="path31"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         style="fill:#d3dae3;fill-opacity:1"
+         class="ColorScheme-Text"
+         d="m 12,4 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+         id="circle-outline"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
