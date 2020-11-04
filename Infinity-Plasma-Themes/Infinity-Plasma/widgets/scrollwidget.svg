@@ -280,7 +280,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -366,9 +366,9 @@
          height="1"
          width="100"
          id="rect3032"
-         style="fill:#008080;fill-opacity:1;stroke:none" />
+         style="fill:#3f9eff;fill-opacity:1;stroke:none" />
       <rect
-         style="opacity:0.4;fill:#008080;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none"
          id="rect3825"
          width="100"
          height="1"
@@ -380,7 +380,7 @@
        transform="matrix(1,0,0,-1,-0.26516506,224.53033)"
        style="fill:#008080;opacity:0.05;fill-opacity:1">
       <rect
-         style="fill:#008080;fill-opacity:1;stroke:none"
+         style="fill:#3f9eff;fill-opacity:1;stroke:none"
          id="rect3828"
          width="100"
          height="1"
@@ -392,7 +392,7 @@
          height="1"
          width="100"
          id="rect3807"
-         style="opacity:0.4;fill:#008080;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none" />
     </g>
     <g
        transform="matrix(0,-1,-1,0,192,178)"
@@ -404,9 +404,9 @@
          height="1"
          width="100"
          id="rect3838"
-         style="fill:#008080;fill-opacity:1;stroke:none" />
+         style="fill:#3f9eff;fill-opacity:1;stroke:none" />
       <rect
-         style="opacity:0.4;fill:#008080;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none"
          id="rect3821"
          width="100"
          height="1"
@@ -418,7 +418,7 @@
        transform="rotate(-90,56,124)"
        style="fill:#008080;opacity:0.05;fill-opacity:1">
       <rect
-         style="fill:#008080;fill-opacity:1;stroke:none"
+         style="fill:#3f9eff;fill-opacity:1;stroke:none"
          id="rect3848"
          width="100"
          height="1"
@@ -430,7 +430,7 @@
          height="1"
          width="100"
          id="rect3829"
-         style="opacity:0.4;fill:#008080;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
