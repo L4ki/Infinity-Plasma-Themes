@@ -8,3 +8,8 @@ Infinity-Plasma Theme
 ---------------------
 
 Fix widgets: listitem.svg, scrollwidget.svg
+
+Infinity-GTK
+-------------
+
+File correction: gtkrc
