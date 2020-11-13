@@ -23,3 +23,8 @@ Plasma Theme "Infinity-Plasma" and "Infinity-Solid-Plasma"
 Fixed widgets: background.svg, panel-background.svg
 
 Icon correction: disk.svg
+
+Infinity GTK
+------------
+
+Correction: scrollbar-horz-slider-hover.png, scrollbar-vert-slider-hover.png, scrollbar-vert-slider-hover-rtl.png
