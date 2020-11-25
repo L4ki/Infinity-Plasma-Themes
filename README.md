@@ -28,3 +28,16 @@ Infinity GTK
 ------------
 
 Correction: scrollbar-horz-slider-hover.png, scrollbar-vert-slider-hover.png, scrollbar-vert-slider-hover-rtl.png
+
+Changelog: 25.11.2020.
+----------------------
+
+Plasma Theme "Infinity-Plasma" and "Infinity-Solid-Plasma"
+----------------------------------------------------------
+
+Fixed widget: plasmoidheading.svg
+
+Icons "Infinity-Dark-Icons" and "Infinity-Light-Icons"
+--------------------------------------------------------
+
+Icons added: onlyoffice.svg, onlyoffice-desktopeditors.svg
