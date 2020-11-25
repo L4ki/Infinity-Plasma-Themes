@@ -19,7 +19,7 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=29,29,39
+BackgroundAlternate=31,34,42
 BackgroundNormal=30,33,41
 DecorationFocus=63,158,255
 DecorationHover=6,127,123
@@ -27,13 +27,13 @@ ForegroundActive=61,174,233
 ForegroundInactive=166,172,186
 ForegroundLink=53,135,216
 ForegroundNegative=255,85,127
-ForegroundNeutral=255,170,127
+ForegroundNeutral=43,108,173
 ForegroundNormal=195,199,209
 ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
 
 [Colors:Complementary]
-BackgroundAlternate=27,27,36
+BackgroundAlternate=31,34,42
 BackgroundNormal=30,33,41
 DecorationFocus=0,128,128
 DecorationHover=0,127,255
@@ -54,13 +54,13 @@ ForegroundActive=252,252,252
 ForegroundInactive=211,218,227
 ForegroundLink=53,135,216
 ForegroundNegative=255,85,127
-ForegroundNeutral=255,170,127
+ForegroundNeutral=43,108,173
 ForegroundNormal=22,22,29
 ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
 
 [Colors:Tooltip]
-BackgroundAlternate=25,25,34
+BackgroundAlternate=31,34,42
 BackgroundNormal=30,33,41
 DecorationFocus=63,158,255
 DecorationHover=6,127,123
@@ -68,27 +68,27 @@ ForegroundActive=61,174,233
 ForegroundInactive=166,172,186
 ForegroundLink=53,135,216
 ForegroundNegative=255,85,127
-ForegroundNeutral=255,170,127
+ForegroundNeutral=43,108,173
 ForegroundNormal=211,218,227
 ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
 
 [Colors:View]
-BackgroundAlternate=25,25,33
-BackgroundNormal=30,33,41
+BackgroundAlternate=31,34,42
+BackgroundNormal=23,25,31
 DecorationFocus=63,158,255
 DecorationHover=6,127,123
 ForegroundActive=0,193,228
 ForegroundInactive=166,172,186
 ForegroundLink=53,135,216
 ForegroundNegative=255,85,127
-ForegroundNeutral=255,170,127
+ForegroundNeutral=43,108,173
 ForegroundNormal=211,218,227
 ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
 
 [Colors:Window]
-BackgroundAlternate=27,27,36
+BackgroundAlternate=31,34,42
 BackgroundNormal=30,33,41
 DecorationFocus=63,158,255
 DecorationHover=6,127,123
@@ -96,7 +96,7 @@ ForegroundActive=61,174,233
 ForegroundInactive=166,172,186
 ForegroundLink=53,135,216
 ForegroundNegative=255,85,127
-ForegroundNeutral=255,170,127
+ForegroundNeutral=43,108,173
 ForegroundNormal=211,218,227
 ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
