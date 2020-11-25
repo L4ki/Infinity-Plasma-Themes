@@ -41,3 +41,10 @@ Icons "Infinity-Dark-Icons" and "Infinity-Light-Icons"
 --------------------------------------------------------
 
 Icons added: onlyoffice.svg, onlyoffice-desktopeditors.svg
+
+Infinity-GTK
+-------------
+
+Correction of gtkrc file
+
+
