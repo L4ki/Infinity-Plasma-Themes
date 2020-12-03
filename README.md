@@ -47,4 +47,14 @@ Infinity-GTK
 
 Correction of gtkrc file
 
+Changelog: 03.12.2020.
+---------------------
+
+Icons: Added icon: folder-gdrive
+
+Plasma Theme
+------------
+
+Fixed widget: tasks.svg
+
 
