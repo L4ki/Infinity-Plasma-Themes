@@ -60,5 +60,10 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+GTK Theme
+---------
+
+Correction of gtkrc file
+
 
 
