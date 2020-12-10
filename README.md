@@ -65,5 +65,12 @@ GTK Theme
 
 Correction of gtkrc file
 
+Changelog: 10.12.2020
+---------------------
+
+Plasma Themes
+--------------
+
+Fixed scrollbar.svg
 
 
