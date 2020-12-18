@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="folder-html.svg"
+   sodipodi:docname="folder_html.svg"
    id="svg12"
    version="1.1"
    viewBox="0 0 64 64">
@@ -36,7 +36,7 @@
      inkscape:zoom="5.2609472"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1013"
+     inkscape:window-height="1012"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -50,15 +50,15 @@
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient844">
+       id="linearGradient845">
       <stop
-         style="stop-color:#008282;stop-opacity:1"
+         style="stop-color:#007a7a;stop-opacity:1"
          offset="0"
-         id="stop840" />
+         id="stop841" />
       <stop
-         style="stop-color:#5200ce;stop-opacity:1"
+         style="stop-color:#4f00c7;stop-opacity:1"
          offset="1"
-         id="stop842" />
+         id="stop843" />
     </linearGradient>
     <style
        id="current-color-scheme"
@@ -99,7 +99,7 @@
       </style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient844"
+       xlink:href="#linearGradient845"
        id="linearGradient850"
        x1="0"
        y1="247.5"
@@ -108,30 +108,48 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient844"
+       xlink:href="#linearGradient845"
        id="linearGradient858"
        x1="22.057718"
        y1="40.995953"
        x2="42.05772"
        y2="40.995953"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient845"
+       id="linearGradient847"
+       gradientUnits="userSpaceOnUse"
+       x1="340.61615"
+       y1="248.95053"
+       x2="495"
+       y2="247.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient845"
+       id="linearGradient849"
+       gradientUnits="userSpaceOnUse"
+       x1="332.93472"
+       y1="251.45761"
+       x2="495"
+       y2="247.5" />
   </defs>
   <g
      id="g8"
      transform="matrix(0.11428571,0,0,0.11428571,3.7762141,4.2052238)"
-     style="fill-opacity:1;fill:url(#linearGradient850)">
+     style="fill:url(#linearGradient850);fill-opacity:1">
     <path
        d="M 439.5,84 H 234.729 L 198.09,45.279 C 182.464,28.269 164.607,20 143.5,20 h -88 C 24.897,20 0,44.897 0,75.5 v 344 C 0,450.103 24.897,475 55.5,475 h 384 c 30.603,0 55.5,-24.897 55.5,-55.5 v -280 C 495,108.897 470.103,84 439.5,84 Z M 480,419.5 c 0,22.332 -18.168,40.5 -40.5,40.5 H 55.5 C 33.168,460 15,441.832 15,419.5 v -232 C 15,165.168 33.168,147 55.5,147 h 384 c 22.332,0 40.5,18.168 40.5,40.5 z M 439.5,132 H 55.5 C 39.536,132 25.135,138.784 15,149.61 V 75.5 C 15,53.168 33.168,35 55.5,35 h 88 c 16.92,0 30.768,6.503 43.579,20.465 0.026,0.028 0.052,0.057 0.079,0.084 l 38.895,41.105 C 227.469,98.151 229.439,99 231.5,99 h 208 c 22.332,0 40.5,18.168 40.5,40.5 v 10.11 C 469.865,138.784 455.464,132 439.5,132 Z"
        id="path2"
-       style="fill-opacity:1;fill:url(#linearGradient850)" />
+       style="fill:url(#linearGradient850);fill-opacity:1" />
     <path
        d="m 431.5,180 h -104 c -4.142,0 -7.5,3.357 -7.5,7.5 0,4.143 3.358,7.5 7.5,7.5 h 104 c 4.142,0 7.5,-3.357 7.5,-7.5 0,-4.143 -3.358,-7.5 -7.5,-7.5 z"
        id="path4-3"
-       style="fill:url(#linearGradient850);fill-opacity:1" />
+       style="fill:url(#linearGradient847);fill-opacity:1" />
     <path
        d="m 431.5,220 h -104 c -4.142,0 -7.5,3.357 -7.5,7.5 0,4.143 3.358,7.5 7.5,7.5 h 104 c 4.142,0 7.5,-3.357 7.5,-7.5 0,-4.143 -3.358,-7.5 -7.5,-7.5 z"
        id="path6-6"
-       style="fill:url(#linearGradient850);fill-opacity:1" />
+       style="fill:url(#linearGradient849);fill-opacity:1" />
   </g>
   <path
      style="color:#eff0f1;fill:url(#linearGradient858);fill-opacity:1.0;stroke:none"
