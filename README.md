@@ -73,4 +73,24 @@ Plasma Themes
 
 Fixed scrollbar.svg
 
+Changelog: 18.12.2020.
+----------------------
+
+GTK-3 Theme
+-----------
+
+Fixed togglebutton-active.png
+
+Icons
+-----
+
+Correction: folder_html.svg
+
+Plasma Theme
+------------
+
+Fixed icons: media.svg, start.svg
+
+Fixed widget: panel-background.svg
+
 
