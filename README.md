@@ -93,4 +93,12 @@ Fixed icons: media.svg, start.svg
 
 Fixed widget: panel-background.svg
 
+Changelog: 19.12.2020.
+----------------------
+
+Icons "Infinity-Dark-Icons" and "Infinity-Light-Icons"
+-----------------------------------------------------
+
+Correction of activities.svg icon
+
 
