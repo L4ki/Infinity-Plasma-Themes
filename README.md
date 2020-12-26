@@ -101,4 +101,12 @@ Icons "Infinity-Dark-Icons" and "Infinity-Light-Icons"
 
 Correction of activities.svg icon
 
+Changelog: 26.12.2020.
+---------------------
+
+Plasma Themes
+-------------
+
+Correction of file colors
+
 
