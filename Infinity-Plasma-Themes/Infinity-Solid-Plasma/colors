@@ -102,8 +102,8 @@ ForegroundPositive=0,170,127
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=Infinity-Dark-Color
-Name=Infinity-Dark-Color
+ColorScheme=InfinityDarkColor
+Name=Infinity Dark Color
 shadeSortColumn=true
 
 [KDE]
