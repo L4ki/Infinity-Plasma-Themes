@@ -109,4 +109,21 @@ Plasma Themes
 
 Correction of file colors
 
+Changelog: 03.01.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed assets: checkbox-checked-active.png, checkbox-checked-hover.png, checkbox-checked.png
+
+Icons
+------
+
+Add folders: folder-KDE.svg, folder-Neon.svg, folder-opensuse.svg, folder-Manjaro.svg, folder-Reddit.svg
+
+Plasma Theme
+------------
+
+Added icons: kate.svg, redshift.svg, update.svg
 
