@@ -127,3 +127,22 @@ Plasma Theme
 
 Added icons: kate.svg, redshift.svg, update.svg
 
+Changelog: 16.01.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Fixed icon: checkbox-checked-insensitive.png
+
+Plasma Themes
+--------------
+
+Redesigned Theme
+
+Icons
+------
+
+Added folder: folder-github
+
+
