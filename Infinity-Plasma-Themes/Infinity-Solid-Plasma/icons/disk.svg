@@ -40,7 +40,7 @@
      inkscape:pageshadow="2"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-height="1013"
+     inkscape:window-height="1012"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
@@ -65,7 +65,6 @@
     <path
        id="path15"
        d="M 6,2 C 4.892,2 4,2.892 4,4 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 C 18,2.892 17.108,2 16,2 Z M 6,4 H 7 V 6 H 6 Z M 8,4 H 9 V 6 H 8 Z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m 5,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
-       fill="#dedede"
        inkscape:connector-curvature="0"
        style="fill:#d3dae3;fill-opacity:1" />
     <path
@@ -79,14 +78,13 @@
        opacity="0"
        inkscape:connector-curvature="0" />
     <g
-       id="g23"
-       fill="#dedede">
+       id="g23">
       <circle
          id="circle21"
          cx="11"
          cy="12"
          r="2"
-         style="fill:#00ff00;fill-opacity:1" />
+         style="fill:#a2b1c3;fill-opacity:1" />
     </g>
   </g>
   <g
@@ -95,7 +93,6 @@
     <path
        id="path53"
        d="M 6,2 C 4.892,2 4,2.892 4,4 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 C 18,2.892 17.108,2 16,2 Z M 6,4 H 7 V 6 H 6 Z M 8,4 H 9 V 6 H 8 Z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m 5,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
-       fill="#dedede"
        inkscape:connector-curvature="0"
        style="fill:#d3dae3;fill-opacity:1" />
     <path
@@ -109,14 +106,13 @@
        opacity="0"
        inkscape:connector-curvature="0" />
     <g
-       id="g61"
-       fill="#dedede">
+       id="g61">
       <circle
          id="circle59"
          cx="11"
          cy="12"
          r="2"
-         style="fill:#08a19d;fill-opacity:1" />
+         style="fill:#3df5f1;fill-opacity:1" />
     </g>
   </g>
   <g
@@ -125,22 +121,20 @@
     <path
        id="path65"
        d="M 6,2 C 4.892,2 4,2.892 4,4 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 C 18,2.892 17.108,2 16,2 Z M 6,4 H 7 V 6 H 6 Z M 8,4 H 9 V 6 H 8 Z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m 5,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
-       fill="#dedede"
        inkscape:connector-curvature="0"
        style="fill:#d3dae3;fill-opacity:1" />
     <path
        id="path67"
        d="m 11,7 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 h -5 z"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ff2a7f;stroke:#d3dae3;stroke-opacity:1" />
+       style="opacity:1;fill:#cc5200;stroke:#d3dae3;stroke-opacity:1;fill-opacity:1" />
     <path
        id="path69"
        d="M 0,0 H 22 V 22 H 0 Z"
        opacity="0"
        inkscape:connector-curvature="0" />
     <g
-       id="g73"
-       fill="#dedede">
+       id="g73">
       <circle
          id="circle71"
          cx="11"
@@ -155,14 +149,13 @@
     <path
        id="path77"
        d="m 126,2 c -1.108,0 -2,0.892 -2,2 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z m 5,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
-       fill="#dedede"
        inkscape:connector-curvature="0"
        style="fill:#d3dae3;fill-opacity:1" />
     <path
        id="path79"
        d="m 131,7 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 h -5 z"
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#ff2a7f;stroke:#a1b4ba;stroke-opacity:1" />
+       style="opacity:1;fill:#cc0052;stroke:#a1b4ba;stroke-opacity:1;fill-opacity:1" />
     <path
        id="path81"
        d="m 120,0 h 22 v 22 h -22 z"
@@ -170,14 +163,13 @@
        inkscape:connector-curvature="0" />
     <g
        id="g85"
-       transform="translate(120)"
-       fill="#dedede">
+       transform="translate(120)">
       <circle
          id="circle83"
          cx="11"
          cy="12"
          r="2"
-         style="fill:#d40055;fill-opacity:1" />
+         style="fill:#ff80b3;fill-opacity:1" />
     </g>
     <path
        id="path24"
