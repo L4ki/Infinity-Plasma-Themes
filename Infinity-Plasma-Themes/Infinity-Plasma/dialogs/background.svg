@@ -437,7 +437,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -485,7 +485,7 @@
     <g
        id="top"
        transform="translate(-0.5)"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <rect
          y="-50.999985"
          x="-916.36218"
@@ -499,7 +499,7 @@
     <g
        id="bottom"
        transform="translate(-0.5)"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <rect
          transform="rotate(90)"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -513,7 +513,7 @@
     <g
        id="left"
        transform="translate(-0.5)"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <rect
          transform="scale(-1,1)"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -527,7 +527,7 @@
     <g
        id="right"
        transform="translate(-0.5)"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <rect
          y="916.36218"
          x="50.999985"
@@ -540,7 +540,7 @@
     <g
        id="center"
        transform="translate(-0.5)"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <rect
          y="916.36218"
          x="19.000004"
@@ -549,7 +549,7 @@
          id="rect4401"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none" />
       <rect
-         style="opacity:0.01;fill:#1e2129;fill-opacity:1;stroke:none"
+         style="opacity:0.00100002;fill:#1e2129;fill-opacity:1;stroke:none"
          id="rect4138"
          width="32"
          height="32"
@@ -558,7 +558,7 @@
          class="ColorScheme-Background" />
     </g>
     <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1e2129;fill-opacity:1;stroke:none"
        id="hint-top-margin"
        width="4"
        height="6.0000248"
@@ -570,17 +570,17 @@
        height="5.9999752"
        width="4"
        id="hint-bottom-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#1e2129;fill-opacity:1;stroke:none" />
     <rect
        y="-50.500008"
        x="930.36218"
        height="6.0000153"
        width="4"
        id="hint-right-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1e2129;fill-opacity:1;stroke:none"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1e2129;fill-opacity:1;stroke:none"
        id="hint-left-margin"
        width="4"
        height="6.0000038"
@@ -1015,7 +1015,7 @@
     <g
        transform="translate(-0.5,-2.0185303e-5)"
        id="topleft"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
          d="m 16,6 c -2,0 -3,1 -3,3 v 2 1 h 4 1 1 V 11 7 6 h -1 1 z"
@@ -1028,7 +1028,7 @@
     <g
        transform="translate(-0.5,-2.0185303e-5)"
        id="topright"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
          d="m 51,6 v 1 4 1 h 1 1 3 1 V 11 9 C 57,7 56,6 54,6 h -1 -1 z"
@@ -1041,7 +1041,7 @@
     <g
        transform="translate(-0.5,-2.0185303e-5)"
        id="bottomleft"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -1053,7 +1053,7 @@
     <g
        transform="translate(-0.5,-2.0185303e-5)"
        id="bottomright"
-       style="opacity:0.98;fill:#22242e;fill-opacity:1">
+       style="opacity:1;fill:#1e2129;fill-opacity:1">
       <path
          id="rect4177-6"
          d="m 51,954.36218 v -1 -4 -1 h 1 1 3 1 v 1 2 c 0,2 -1,3 -3,3 h -1 -1 z"
