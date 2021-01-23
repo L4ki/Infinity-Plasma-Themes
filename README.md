@@ -145,4 +145,14 @@ Icons
 
 Added folder: folder-github
 
+Changelog: 23.01.2021.
+---------------------
+
+Plasma Themes
+--------------
+
+Icon correction: window.svg
+
+Widget correction: arrows.svg
+
 
