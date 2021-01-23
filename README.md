@@ -151,7 +151,7 @@ Changelog: 23.01.2021.
 Plasma Themes
 --------------
 
-Icon correction: window.svg
+Icon correction: window.svg, system.svg
 
 Widget correction: arrows.svg
 
