@@ -164,3 +164,15 @@ GTK Theme
 
 Correction: checkbox-checked-intensitive.png
 
+Infinity-Icons (Dark and Light)
+-------------------------------
+
+Added icons: Pop_OS-folder.svg
+
+Plasma Themes
+-------------
+
+Fixed icon: printer.svg
+
+Fixed widget: viewitem.svg 
+
