@@ -38,7 +38,7 @@
      inkscape:zoom="2.4792172"
      showgrid="false"
      id="namedview186"
-     inkscape:window-height="1013"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -56,8 +56,7 @@
      id="defs3">
     <style
        type="text/css"
-       id="current-color-scheme">
-  </style>
+       id="current-color-scheme" />
   </defs>
   <rect
      id="hint-tile-center"
@@ -78,10 +77,10 @@
      transform="matrix(1,0,0,3,-169.14,-2468.58)">
     <path
        class="ColorScheme-Highlight"
-       d="m 186.14,829.86 v 16 h 2 v -16 z"
+       d="m 186.14,829.86 v 16 h 4 v -16 z"
        id="path7"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707109" />
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:1" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -90,8 +89,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path10"
-       d="m 188.14,825.86 c -1.108,0 -2,1.784 -2,4 h 2 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707109" />
+       d="m 190.14,825.86 c -2.216,0 -4,1.784 -4,4 h 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:1" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -221,8 +220,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path155"
-       d="m 325.14,829.86 c 0,-2.216 -0.892,-4 -2,-4 v 4 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707107" />
+       d="m 325.14,829.86 c 0,-2.216 -1.784,-4 -4,-4 v 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.999998" />
   </g>
   <use
      style="opacity:0"
@@ -290,10 +289,10 @@
      transform="matrix(0.99999999,0,0,3,-169.13999,-2398.5798)">
     <path
        class="ColorScheme-Highlight"
-       d="m 186.14,829.86 v 16 h 2 v -16 z"
+       d="m 186.14,829.86 v 16 h 4 v -16 z"
        id="path7-8"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707108" />
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.999999" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -302,8 +301,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path10-91"
-       d="m 188.14,825.86 c -1.108,0 -2,1.784 -2,4 h 2 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707108" />
+       d="m 190.14,825.86 c -2.216,0 -4,1.784 -4,4 h 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.999999" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -366,8 +365,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path155-7"
-       d="m 325.14,829.86 c 0,-2.216 -0.892,-4 -2,-4 v 4 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707108" />
+       d="m 325.14,829.86 c 0,-2.216 -1.784,-4 -4,-4 v 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:1" />
   </g>
   <path
      id="selected+hover-center"
@@ -381,10 +380,10 @@
      transform="matrix(0.99999999,0,0,3,-86.139998,-2398.58)">
     <path
        class="ColorScheme-Highlight"
-       d="m 186.14,829.86 v 16 h 2 v -16 z"
+       d="m 186.14,829.86 v 16 h 4 v -16 z"
        id="path7-83"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707108" />
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.999997" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -393,8 +392,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path10-0"
-       d="m 188.14,825.86 c -1.108,0 -2,1.784 -2,4 h 2 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707109" />
+       d="m 190.14,825.86 c -2.216,0 -4,1.784 -4,4 h 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:1" />
   </g>
   <g
      style="opacity:1;fill:#3f9eff;fill-opacity:1"
@@ -457,7 +456,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path155-1"
-       d="m 325.14,829.86 c 0,-2.216 -0.892,-4 -2,-4 v 4 z"
-       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:0.707108" />
+       d="m 325.14,829.86 c 0,-2.216 -1.784,-4 -4,-4 v 4 z"
+       style="color:#3daee6;opacity:0.1;fill:#3f9eff;fill-opacity:1;stroke-width:1" />
   </g>
 </svg>
