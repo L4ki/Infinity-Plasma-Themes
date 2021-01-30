@@ -156,3 +156,11 @@ Icon correction: system.svg, window.svg
 Widget correction: arrows.svg
 
 
+Changelog: 30.01.2021.
+----------------------
+
+GTK Theme
+---------
+
+Correction: checkbox-checked-intensitive.png
+
