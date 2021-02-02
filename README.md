@@ -140,8 +140,8 @@ Plasma Themes
 
 Redesigned Theme
 
-Icons
-------
+Icons: Infinity-Dark and Light
+------------------------------
 
 Added folder: folder-github
 
@@ -175,4 +175,13 @@ Plasma Themes
 Fixed icon: printer.svg
 
 Fixed widget: viewitem.svg 
+
+Changelog: 02.02.2021.
+-----------------------
+
+Icons: Infinity-Lavender-Dak and Light
+---------------------------------------
+
+Added icons: folder-Github.svg, folder-Pop_OS.svg
+
 
