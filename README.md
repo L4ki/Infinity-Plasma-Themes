@@ -184,4 +184,12 @@ Icons: Infinity-Lavender-Dak and Light
 
 Added icons: folder-Github.svg, folder-Pop_OS.svg
 
+Changelog: 06.02.2021.
+----------------------
+
+Plasma Themes
+---------------
+
+Fixed Icons: cantata.svg, input.svg, update.svg
+
 
