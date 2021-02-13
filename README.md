@@ -200,4 +200,15 @@ GTK Theme
 
 Redesigned Theme 
 
+Icons "Infinity-Dark" and "Infinity-Light"
+
+Icon correction: folder-black.svg
+
+Added icons: folder-KaOS.svg 
+
+Plasma Theme
+-------------
+
+Added icons: plasmavault.svg, plasmavault_error.svg, TeamViewer.svg 
+
 
