@@ -192,4 +192,12 @@ Plasma Themes
 
 Fixed Icons: cantata.svg, input.svg, update.svg
 
+Changelog: 13.02.2021.
+----------------------
+
+GTK Theme
+----------
+
+Redesigned Theme 
+
 
