@@ -201,6 +201,7 @@ GTK Theme
 Redesigned Theme 
 
 Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
 
 Icon correction: folder-black.svg
 
