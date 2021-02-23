@@ -212,4 +212,25 @@ Plasma Theme
 
 Added icons: plasmavault.svg, plasmavault_error.svg, TeamViewer.svg 
 
+Changelog: 23.02.2021.
+----------------------
+
+Gtk-3 Theme
+-----------
+
+Correction of gtkrc file
+
+Icons: "Infinity-Dark" and "Infinity'Light"
+-------------------------------------------
+
+Correction of icons in the action folder (22) 
+
+Plasma Themes
+--------------
+
+Fixed widgets: tasks.svg, scrollbar.svg
+
+
+
+
 
