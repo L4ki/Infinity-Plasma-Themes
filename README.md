@@ -242,7 +242,7 @@ Added Icon: compass.svg
 Icons: "Infinity-Dark" and "Infinity'Light"
 --------------------------------------------
 
-con correction: bookmark-remove.svg 
+Icon correction: bookmark-remove.svg 
 
 GTK Theme
 ---------
