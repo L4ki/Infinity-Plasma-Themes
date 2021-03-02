@@ -231,6 +231,26 @@ Plasma Themes
 Fixed widgets: tasks.svg, scrollbar.svg
 
 
+Changelog: 02.03.2021.
+----------------------
+
+Plasma Themes
+-------------
+
+Added Icon: compass.svg
+
+Icons: "Infinity-Dark" and "Infinity'Light"
+--------------------------------------------
+
+con correction: bookmark-remove.svg 
+
+GTK Theme
+---------
+
+Correction of gtkrc file
+
+
+
 
 
 
