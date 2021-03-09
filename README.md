@@ -249,6 +249,26 @@ GTK Theme
 
 Correction of gtkrc file
 
+Changelog: 09.03.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Correction of gtkcss file (gtk-3.0)
+
+Icons
+------
+
+Added emblems icons (8x8, 16x16, 22x22) 
+
+Correction Icons: compass.svg 
+
+Plasma Themes
+-------------
+
+Fixed icons: network.svg, kmail.svg, mail.svg
+
 
 
 
