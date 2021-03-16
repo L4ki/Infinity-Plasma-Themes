@@ -272,6 +272,8 @@ Fixed icons: network.svg, kmail.svg, mail.svg
 Changelog: 16.03.2021.
 ----------------------
 
+GTK-Theme
+---------
 
 Correction of gtkcss file and gtkrc file
 
