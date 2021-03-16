@@ -269,6 +269,21 @@ Plasma Themes
 
 Fixed icons: network.svg, kmail.svg, mail.svg
 
+Changelog: 16.03.2021.
+----------------------
+
+
+Correction of gtkcss file and gtkrc file
+
+Icons
+------
+
+Added icons: Actions (64), Status (48 and 64) 
+
+Plasma Themes
+--------------
+
+Added icons: wallet.svg, document.svg, video-card.svg
 
 
 
