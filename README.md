@@ -287,6 +287,21 @@ Plasma Themes
 
 Added icons: wallet.svg, document.svg, video-card.svg
 
+Changelog: 24.03.2021.
+---------------------
+
+Icons "Infinity-Dark" aand "Infinity-Light"
+-------------------------------------------
+
+Added icons: action (48)
+
+Plasma Themes
+--------------
+
+Added icons: pamac.svg, manjaro.svg
+
+Fixed icon: plasmavault_error.svg
+
 
 
 
