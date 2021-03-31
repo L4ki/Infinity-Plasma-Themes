@@ -302,7 +302,23 @@ Added icons: pamac.svg, manjaro.svg
 
 Fixed icon: plasmavault_error.svg
 
+Changelog: 31.03.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Correction of gtkcss file
 
 
+Icons "Infinity-Dark" aand "Infinity-Light"
+-------------------------------------------
+
+Added icons: image-missing.svg (status)
+
+Plasma Themes
+--------------
+
+Added icons: kalarm.svg, sofware.svg, kaffeine.svg, utilities.svg
 
 
