@@ -308,7 +308,7 @@ Changelog: 31.03.2021.
 GTK-Theme
 ---------
 
-Correction of gtkcss file
+Correction of gtk.css file
 
 
 Icons "Infinity-Dark" aand "Infinity-Light"
