@@ -311,7 +311,7 @@ GTK-Theme
 Correction of gtk.css file
 
 
-Icons "Infinity-Dark" aand "Infinity-Light"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Added icons: image-missing.svg (status)
@@ -321,4 +321,23 @@ Plasma Themes
 
 Added icons: kalarm.svg, sofware.svg, kaffeine.svg, utilities.svg
 
+Changelog: 08.04.2021.
+-----------------------
+
+GTK Theme
+---------
+
+Iixed icons: treeview-separator-ltr.png, treeview-separator-rtl.png
+
+
+Icons "Infinity-Dark" and "Infinity-Light"
+--------------------------------------------
+
+Added Icons: folder-Github, folder-KDE, folder-KaOS, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit, folder-Pop_OS (16,22,24)
+
+
+Plasma Themes
+--------------
+
+Added icons: choqok_offline.svg, choqok.svg, quassel.svg
 
