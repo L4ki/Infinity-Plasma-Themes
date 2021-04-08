@@ -327,7 +327,7 @@ Changelog: 08.04.2021.
 GTK Theme
 ---------
 
-Iixed icons: treeview-separator-ltr.png, treeview-separator-rtl.png
+Fixed icons: treeview-separator-ltr.png, treeview-separator-rtl.png
 
 
 Icons "Infinity-Dark" and "Infinity-Light"
