@@ -341,3 +341,23 @@ Plasma Themes
 
 Added icons: choqok_offline.svg, choqok.svg, quassel.svg
 
+
+Changelog: 15.04.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: border, button-active, button-hover, button-insensitive, button
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: devices (symbolic)
+
+Plasma Themes
+--------------
+
+Fixed icon: input.svg
+
+Added icons: nepomuk.svg, video.svg
