@@ -361,3 +361,22 @@ Plasma Themes
 Fixed icon: input.svg
 
 Added icons: nepomuk.svg, video.svg
+
+Changelog: 26.04.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Correction: gtkrc file (GTK 2.0) and gtk.css (GTK-3.0) 
+
+
+Icons Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------------
+
+Added new icons: applets (16.24, 256)
+
+Plasma Themes
+--------------
+
+Added icons: activities.svg, korgac.svg, kpackagekit.svg
