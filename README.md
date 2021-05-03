@@ -389,7 +389,10 @@ GTK-Theme
 
 Fixed icons: progressbar-horz.png, progressbar-vert.png
 
-Icons: Added new icons: actions (16)
+Icons
+------
+
+Added new icons: actions (16)
 
 Plasma Themes
 -------------
