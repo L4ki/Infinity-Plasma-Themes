@@ -380,3 +380,18 @@ Plasma Themes
 --------------
 
 Added icons: activities.svg, korgac.svg, kpackagekit.svg
+
+Changelog: 03.05.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Icons: Added new icons: actions (16)
+
+Plasma Themes
+-------------
+
+Added icons: kget.svg, user.svg
