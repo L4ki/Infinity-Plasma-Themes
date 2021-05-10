@@ -398,3 +398,21 @@ Plasma Themes
 -------------
 
 Added icons: kget.svg, user.svg
+
+Changelog: 10.05.2021.
+-----------------------
+
+GTK Theme
+----------
+
+Fixed icons: scrollbar-vert-trough-rtl.png, scrollbar-vert-trough.png
+
+Infinity Icons
+---------------
+
+Fixed some icons: actions (16,22.24.32)
+
+Plasma Themes
+--------------
+
+Added icons: fcitx.svg, ime.svg
