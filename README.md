@@ -416,3 +416,22 @@ Plasma Themes
 --------------
 
 Added icons: fcitx.svg, ime.svg
+
+Changelog: 18.05.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: handle, handle-vert, handle-horz
+
+
+Icons Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------------
+
+Added new icons: apps (24)
+
+Plasma Themes
+--------------
+
+Added icons: go.svg, kgpg.svg, dropbox.svg
