@@ -435,3 +435,22 @@ Plasma Themes
 --------------
 
 Added icons: go.svg, kgpg.svg, dropbox.svg
+
+Changelog: 26.05.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+
+Icons Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------------
+
+Added new icons: emblems (16, 22, 24)
+
+Plasma Themes
+--------------
+
+Added icons: kopete.svg, kruler.svg, kup.svg
