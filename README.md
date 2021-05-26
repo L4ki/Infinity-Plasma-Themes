@@ -445,7 +445,7 @@ GTK Theme
 Fixed icons: treeview-separator-ltr, treeview-separator-rtl
 
 
-Icons Icons "Infinity-Dark" and "Infinity-Light"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------------
 
 Added new icons: emblems (16, 22, 24)
