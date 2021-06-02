@@ -33,6 +33,8 @@ Changelog: 25.11.2020.
 ----------------------
 
 Plasma Theme "Infinity-Plasma" and "Infinity-Solid-Plasma"
+
+
 ----------------------------------------------------------
 
 Fixed widget: plasmoidheading.svg
@@ -454,3 +456,26 @@ Plasma Themes
 --------------
 
 Added icons: kopete.svg, kruler.svg, kup.svg
+
+Changelog: 02.06.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icon: menubar-item-active
+
+Icons 
+------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons actions (16, 22, 24) : sidebar-collapse, sidebar-expand
+
+Plasma Themes
+--------------
+
+Added icons: elisa.svg, audacious.svg
+
+
