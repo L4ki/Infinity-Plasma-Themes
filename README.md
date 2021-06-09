@@ -478,4 +478,17 @@ Plasma Themes
 
 Added icons: elisa.svg, audacious.svg
 
+Changelog: 09.06.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Added icons: mobile.svg, kleopatra.svg
+
 
