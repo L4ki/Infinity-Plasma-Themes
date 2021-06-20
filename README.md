@@ -491,4 +491,24 @@ Plasma Themes
 
 Added icons: mobile.svg, kleopatra.svg
 
+Changelog: 20.06.2021.
+---------------------
+
+GTK-Theme
+----------
+
+Fixed icons: entry-background-insensitive, entry-background, entry-insensitive, entry
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: actions (16)
+
+Plasma Themes
+-------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Fixed icon: elise.svg
+
 
