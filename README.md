@@ -512,3 +512,22 @@ Enable "Adaptive Transparency" for Plasma 5.22
 Fixed icon: elise.svg
 
 
+Changelog: 01.07.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icon: line.png
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Fixed icon: kalarm.svg
+
+
