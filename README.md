@@ -530,4 +530,18 @@ Plasma Themes
 
 Fixed icon: kalarm.svg
 
+Changelog: 25.07.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (16)
+
+
+Plasma Theme
+------------
+
+Fixed widget: calendar.svg
+
 
