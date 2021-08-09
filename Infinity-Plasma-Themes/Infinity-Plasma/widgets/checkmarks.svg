@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:version="0.32"
    id="svg2"
    height="16"
@@ -148,7 +148,8 @@
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        originy="0"
        originx="-20"
@@ -167,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -12,15 +12,15 @@
    height="85"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="slider.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
@@ -30,11 +30,12 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -583,7 +584,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -653,7 +654,7 @@
          r="4" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-1023.3622,1063.3622)"
+       transform="rotate(-90,20,1043.3622)"
        id="vertical-slider-line" />
     <g
        transform="translate(-55,-22.968753)"
@@ -666,36 +667,28 @@
          width="16"
          id="rect2932"
          style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none" />
-      <path
+      <ellipse
          transform="matrix(1,0,0,0.83333333,0,923.69551)"
-         d="m 72,134 c 0,3.31371 -2.238576,6 -5,6 -2.761424,0 -5,-2.68629 -5,-6 0,-3.31371 2.238576,-6 5,-6 2.761424,0 5,2.68629 5,6 z"
-         sodipodi:ry="6"
-         sodipodi:rx="5"
-         sodipodi:cy="134"
-         sodipodi:cx="67"
          id="path2934"
          style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <path
-         sodipodi:type="arc"
+         cx="67"
+         cy="134"
+         rx="5"
+         ry="6" />
+      <circle
          style="fill:#ececec;fill-opacity:1;stroke:none"
          id="path2936"
-         sodipodi:cx="757"
-         sodipodi:cy="246"
-         sodipodi:rx="4"
-         sodipodi:ry="4"
-         d="m 761,246 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4 z"
-         transform="translate(-690,789.33093)" />
-      <path
+         transform="translate(-690,789.33093)"
+         cx="757"
+         cy="246"
+         r="4" />
+      <circle
          transform="matrix(1.0919496,0,0,1.0978665,-759.6889,765.12319)"
-         d="m 761,246 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4 z"
-         sodipodi:ry="4"
-         sodipodi:rx="4"
-         sodipodi:cy="246"
-         sodipodi:cx="757"
          id="path2938"
          style="fill:#cccccc;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
+         cx="757"
+         cy="246"
+         r="4" />
     </g>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.67577;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.772549;paint-order:normal"
