@@ -570,5 +570,13 @@ Plasma Theme
 
 Fixed widgets: checkmarks.svg, slider.svg
 
+Changelog: 19.08.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: actions (24)
+
 
 
