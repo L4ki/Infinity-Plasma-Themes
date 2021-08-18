@@ -11,7 +11,7 @@
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    sodipodi:docname="arrows.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:version="0.32"
    id="svg2"
    height="49"
@@ -83,7 +83,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1012"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
@@ -100,7 +100,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -117,7 +119,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
