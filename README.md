@@ -578,5 +578,9 @@ Icons "Infinity-Dark" and "Infinity-Light"
 
 Added new icons: actions (24)
 
+Plasma Theme
+-------------
+
+Fixed widgets: action-overlays.svg,arrows.svg
 
 
