@@ -589,7 +589,7 @@ Changelog: 03.09.2021.
 Icons "Infinity-Dark" and "Infinity-Light"
 ------------------------------------------
 
-Added new icons: apps (16, 42, 48)
+Added new icons: apps (16,32,48)
 
 Plasma Theme
 -------------
