@@ -583,4 +583,20 @@ Plasma Theme
 
 Fixed widgets: action-overlays.svg, arrows.svg
 
+Changelog: 03.09.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: apps (16, 42, 48)
+
+Plasma Theme
+-------------
+
+Fixed icons: kalarm.svg, kate.svg
+
+
+
+
 
