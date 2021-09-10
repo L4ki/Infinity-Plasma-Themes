@@ -596,6 +596,19 @@ Plasma Theme
 
 Fixed icons: kalarm.svg, kate.svg
 
+Changelog: 10.09.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: status (16, 22, 24)
+
+Plasma Theme
+------------
+
+Fixed icons: choqok_offline.svg, choqok.svg
+
 
 
 
