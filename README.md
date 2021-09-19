@@ -609,6 +609,19 @@ Plasma Theme
 
 Fixed icons: choqok_offline.svg, choqok.svg
 
+Changelog: 19.09.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Fixed icons: actions (32), applets (256
+
+Plasma Theme
+------------
+
+Fixed icons: applications.svg, compass.svg
+
 
 
 
