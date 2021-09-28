@@ -622,6 +622,18 @@ Plasma Theme
 
 Fixed icons: applications.svg, compass.svg
 
+Changelog: 28.09.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+------------------------------------------
+
+Added new icons: status (22, 24)
+
+Plasma Theme
+-------------
+
+Fixed widget: scrollbar.svg
 
 
 
