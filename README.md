@@ -635,6 +635,19 @@ Plasma Theme
 
 Fixed widget: scrollbar.svg
 
+Changelog: 05.10.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Fixed icons: manjaro.svg, pamac.svg
+
 
 
 
