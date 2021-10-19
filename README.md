@@ -662,6 +662,21 @@ Plasma Theme
 
 Fixed icons: system.svg
 
+Changelog: 19.10.2021.
+----------------------
+
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes
+
+Plasma Theme
+------------
+
+Fixed icons: viewitem.svg
+
+
 
 
 
