@@ -674,7 +674,7 @@ Added new icons: mimetypes
 Plasma Theme
 ------------
 
-Fixed icons: viewitem.svg
+Fixed widget: viewitem.svg
 
 
 
