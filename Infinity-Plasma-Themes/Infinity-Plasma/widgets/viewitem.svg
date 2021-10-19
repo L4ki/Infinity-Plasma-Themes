@@ -22,12 +22,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:document-rotation="0"
      inkscape:current-layer="svg184"
      inkscape:window-maximized="1"
@@ -38,7 +38,7 @@
      inkscape:zoom="2.4792172"
      showgrid="false"
      id="namedview186"
-     inkscape:window-height="1016"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1102"
        type="xygrid" />
