@@ -676,6 +676,24 @@ Plasma Theme
 
 Fixed widget: viewitem.svg
 
+Changelog: 24.10.2021.
+----------------------
+
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+------------
+
+Enabled Blurred Widgets for Plasma 5.23
+
+Fixed widget: arrows.svg, background.svg
+
+
+
 
 
 
