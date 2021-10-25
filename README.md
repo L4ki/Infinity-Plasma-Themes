@@ -676,7 +676,7 @@ Plasma Theme
 
 Fixed widget: viewitem.svg
 
-Changelog: 24.10.2021.
+Changelog: 25.10.2021.
 ----------------------
 
 
