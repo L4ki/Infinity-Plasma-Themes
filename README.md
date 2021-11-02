@@ -693,6 +693,20 @@ Enabled Blurred Widgets for Plasma 5.23
 Fixed widget: arrows.svg, background.svg
 
 
+Changelog: 02.11.2021.
+----------------------
+
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Fifed  icons: dialog-password.svg (status 64)
+
+Plasma Theme
+------------
+
+Fixed widget: tasks.svg
+
 
 
 
