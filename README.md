@@ -700,7 +700,7 @@ Changelog: 02.11.2021.
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Fifed  icons: dialog-password.svg (status 64)
+Fixed  icons: dialog-password.svg (status 64)
 
 Plasma Theme
 ------------
