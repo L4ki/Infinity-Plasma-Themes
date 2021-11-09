@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    viewBox="0 0 173 56.000004"
    version="1.1"
    sodipodi:docname="plasmoidheading.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -39,14 +39,15 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="3.5053331"
-     inkscape:cx="139.83534"
-     inkscape:cy="29.416553"
+     inkscape:cx="139.787"
+     inkscape:cy="29.383798"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:lockguides="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <style
      id="current-color-scheme"
      type="text/css" />
@@ -106,7 +107,7 @@
        id="path3178"
        class="ColorScheme-Text"
        d="m 57,49 h -6 v 1 h 6 c 0,-1 -2e-5,0 0,-1 z"
-       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.01;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -121,7 +122,7 @@
        id="path3184"
        class="ColorScheme-Text"
        d="m 19,50 v -1 h -4 l -2,-2e-5 v 1 L 15,50 h 1 z"
-       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.01;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -187,7 +188,7 @@
        id="path3178-2"
        class="ColorScheme-Text"
        d="M 105,7 H 99 V 6 h 6 c 0,1 -2e-5,0 0,1 z"
-       style="color:#232629;opacity:1;fill:#05615e;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.01;fill:#05615e;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -202,7 +203,7 @@
        id="path3184-8"
        class="ColorScheme-Text"
        d="m 67,5.9999838 v 1 h -4 l -2,2e-5 v -1 l 2,-2e-5 h 1 z"
-       style="color:#232629;opacity:1;fill:#05615e;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:0.01;fill:#05615e;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <path
