@@ -707,9 +707,8 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
-Changelog: 02.11.2021.
+Changelog: 09.11.2021.
 ----------------------
-
 
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
