@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="200"
    height="120"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    version="1.0"
    sodipodi:docname="actionbutton.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
-   inkscape:export-ydpi="11.25">
+   inkscape:export-ydpi="11.25"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      showguides="false"
@@ -32,15 +32,15 @@
      inkscape:snap-nodes="false"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1007"
+     inkscape:window-height="1012"
      inkscape:window-width="1920"
      showgrid="false"
      height="128px"
      width="128px"
      inkscape:document-units="px"
-     inkscape:cy="79.536369"
-     inkscape:cx="144.94485"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="49.75"
+     inkscape:cx="144.5"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      objecttolerance="10"
@@ -49,7 +49,10 @@
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="true">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -1612,7 +1615,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
