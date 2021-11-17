@@ -723,6 +723,20 @@ Fixed widget: plasmoidheading.svg
 Fixed icon: media.svg
 
 
+Changelog: 17.11.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions(16)
+
+Plasma Theme
+------------
+
+Fixed widget: actionbutton.svg
+
+
 
 
 
