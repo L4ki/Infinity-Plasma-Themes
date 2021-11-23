@@ -736,6 +736,20 @@ Plasma Theme
 
 Fixed widget: actionbutton.svg
 
+Changelog: 24.11.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions(22)
+
+Plasma Theme
+------------
+
+Fixed: background.svg (dialogs)
+
+
 
 
 
