@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="173"
    height="56.000004"
    viewBox="0 0 173 56.000004"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="panel-background.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="panel-background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <style
@@ -136,8 +136,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.563602"
-     inkscape:cx="64.634646"
-     inkscape:cy="23.255883"
+     inkscape:cx="78.852801"
+     inkscape:cy="32.831949"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -145,7 +145,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -158,7 +158,9 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -169,7 +171,7 @@
        position="93,64.000024"
        orientation="0,1"
        id="guide1808"
-       inkscape:locked="false" />
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -179,7 +181,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -196,7 +197,8 @@
        x="0"
        y="904.36218" />
     <g
-       id="top">
+       id="top"
+       transform="translate(-6.9999943)">
       <rect
          y="-50.999985"
          x="-916.36218"
@@ -208,7 +210,8 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="topleft">
+       id="topleft"
+       transform="translate(-6.9999943)">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1"
          d="m 18,6 c -2.769987,0 -5,2.2300127 -5,5 v 1 h 4 1 1 V 11 7 6 Z"
@@ -216,7 +219,8 @@
          id="rect4159" />
     </g>
     <g
-       id="topright">
+       id="topright"
+       transform="translate(-6.9999943)">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1"
          d="m 51,6 v 1 4 1 h 1 1 3 1 V 11 C 57,8.2300127 54.769987,6 52,6 Z"
@@ -224,7 +228,8 @@
          id="rect4177" />
     </g>
     <g
-       id="bottom">
+       id="bottom"
+       transform="translate(-6.9999943)">
       <rect
          transform="rotate(90)"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -236,7 +241,8 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="bottomleft">
+       id="bottomleft"
+       transform="translate(-6.9999943)">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1"
          d="m 13,44 v 1 c 0,2.769987 2.230013,5 5,5 h 1 v -1 -4 -1 h -1 -1 -3 z"
@@ -244,7 +250,8 @@
          id="path5048" />
     </g>
     <g
-       id="bottomright">
+       id="bottomright"
+       transform="translate(-6.9999943)">
       <path
          style="opacity:0.85;fill:#1e2129;fill-opacity:1"
          d="m 51,44 v 1 4 1 h 1 c 2.769987,0 5,-2.230013 5,-5 v -1 h -1 -3 -1 z"
@@ -252,7 +259,8 @@
          id="rect4177-6" />
     </g>
     <g
-       id="left">
+       id="left"
+       transform="translate(-6.9999943)">
       <rect
          transform="scale(-1,1)"
          style="opacity:0.85;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -264,7 +272,8 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="right">
+       id="right"
+       transform="translate(-6.9999943)">
       <rect
          y="916.36218"
          x="50.999985"
@@ -275,7 +284,8 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="center">
+       id="center"
+       transform="translate(-6.9999943)">
       <rect
          y="916.36218"
          x="19.000004"
@@ -297,17 +307,17 @@
        id="hint-top-margin"
        width="4"
        height="1.9999769"
-       x="33"
+       x="26.000006"
        y="910.36218" />
     <rect
        y="952.36218"
-       x="33"
+       x="26.000006"
        height="2.0000231"
        width="4"
        id="hint-bottom-margin"
        style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none" />
     <rect
-       y="-56.999985"
+       y="-49.999992"
        x="930.36218"
        height="1.9999847"
        width="3.9999769"
@@ -320,11 +330,11 @@
        width="4"
        height="2.0000019"
        x="930.36218"
-       y="-14.999996"
+       y="-8.0000019"
        transform="rotate(90)" />
     <g
        id="mask-top"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
@@ -337,7 +347,7 @@
     </g>
     <g
        id="mask-topleft"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.97;fill:#1e2129;fill-opacity:1"
@@ -347,7 +357,7 @@
     </g>
     <g
        id="mask-topright"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.97;fill:#1e2129;fill-opacity:1"
@@ -357,7 +367,7 @@
     </g>
     <g
        id="mask-bottom"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <rect
          y="-51"
@@ -370,7 +380,7 @@
     </g>
     <g
        id="mask-bottomleft"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.97;fill:#1e2129;fill-opacity:1"
@@ -380,7 +390,7 @@
     </g>
     <g
        id="mask-bottomright"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <path
          style="opacity:0.97;fill:#1e2129;fill-opacity:1"
@@ -390,7 +400,7 @@
     </g>
     <g
        id="mask-left"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <rect
          y="916.36218"
@@ -403,7 +413,7 @@
     </g>
     <g
        id="mask-right"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <rect
          style="opacity:0.97;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -415,7 +425,7 @@
     </g>
     <g
        id="mask-center"
-       transform="translate(116)"
+       transform="translate(109.00001)"
        style="fill:#1e2129;fill-opacity:1">
       <rect
          style="opacity:1;fill:#1e2129;fill-opacity:1;stroke:none"
@@ -434,7 +444,7 @@
     </g>
     <g
        id="shadow-top"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none"
@@ -470,7 +480,7 @@
     </g>
     <g
        id="shadow-topleft"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <path
          style="opacity:0.35;fill:url(#radialGradient1805);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.85714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 57,-8 v 20 c 4.666667,6e-6 9.333333,9e-6 14,0 v -1 c 0,-2.7699873 2.230013,-5 5,-5 h 1 V -8 Z"
@@ -510,7 +520,7 @@
     </g>
     <g
        id="shadow-bottom"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <rect
          y="-50.999985"
          x="948.36218"
@@ -546,7 +556,7 @@
     </g>
     <g
        id="shadow-left"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <rect
          y="916.36218"
          x="-19.000004"
@@ -582,7 +592,7 @@
     </g>
     <g
        id="shadow-right"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none"
          id="rect4900"
@@ -614,7 +624,7 @@
     </g>
     <g
        id="shadow-center"
-       transform="translate(58)">
+       transform="translate(51.000006)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none"
          id="rect4908"
@@ -632,7 +642,7 @@
     </g>
     <rect
        y="896.36218"
-       x="91"
+       x="84.000008"
        height="14"
        width="4"
        id="shadow-hint-top-margin"
@@ -642,7 +652,7 @@
        id="shadow-hint-bottom-margin"
        width="4"
        height="13.999977"
-       x="91"
+       x="84.000008"
        y="954.36218" />
     <rect
        transform="rotate(90)"
@@ -651,10 +661,10 @@
        width="3.9999769"
        height="14"
        x="930.36218"
-       y="-129" />
+       y="-122.00001" />
     <rect
        transform="rotate(90)"
-       y="-71"
+       y="-64.000008"
        x="930.36218"
        height="14"
        width="4.0000229"
@@ -665,7 +675,7 @@
        y="0"
        xlink:href="#shadow-topleft"
        id="shadow-topright"
-       transform="rotate(90,93.000017,932.36217)"
+       transform="rotate(90,86.000023,932.36217)"
        width="100%"
        height="100%" />
     <use
@@ -673,13 +683,13 @@
        y="0"
        xlink:href="#shadow-topleft"
        id="shadow-bottomleft"
-       transform="rotate(-90,92.99999,932.36217)"
+       transform="rotate(-90,85.999996,932.36217)"
        width="100%"
        height="100%" />
     <use
        height="100%"
        width="100%"
-       transform="rotate(180,93.000006,932.36217)"
+       transform="rotate(180,86.000012,932.36217)"
        id="shadow-bottomright"
        xlink:href="#shadow-topleft"
        y="0"
