@@ -763,6 +763,21 @@ Plasma Theme
 Fixed widget: panel-background.svg
 
 
+Changelog: 09.12.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions(16)
+
+Plasma Theme
+------------
+
+Fixed icon: update.svg
+
+
+
 
 
 
