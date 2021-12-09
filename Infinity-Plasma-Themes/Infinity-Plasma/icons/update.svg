@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="update.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg846"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666699"
    height="32.000011"
-   width="32">
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs840" />
   <sodipodi:namedview
@@ -31,16 +31,18 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="0.34275345"
-     inkscape:cx="70.900614"
-     inkscape:zoom="5.6568543"
+     inkscape:cy="-0.87499999"
+     inkscape:cx="50.25"
+     inkscape:zoom="4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     borderopacity="1"
+     bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1394"
        type="xygrid"
@@ -55,14 +57,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <style
      type="text/css"
-     id="current-color-scheme">
-</style>
+     id="current-color-scheme" />
   <g
      transform="translate(0,-297)"
      id="layer1"
