@@ -776,6 +776,19 @@ Plasma Theme
 
 Fixed icon: update.svg
 
+Changelog: 16.12.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: preferences
+
+Plasma Theme
+------------
+
+Fixed widget: tasks.svg
+
 
 
 
