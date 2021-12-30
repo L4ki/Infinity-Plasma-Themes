@@ -802,6 +802,19 @@ Plasma Theme
 
 Fixed widget: clock.svg
 
+Changelog: 30.12.2021.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (24)
+
+Plasma Theme
+------------
+
+Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 
 
 
