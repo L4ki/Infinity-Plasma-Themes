@@ -815,6 +815,18 @@ Plasma Theme
 
 Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 01.01.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (16)
+
+Plasma Theme
+------------
+
+Fixed widget: button.svg
 
 
 
