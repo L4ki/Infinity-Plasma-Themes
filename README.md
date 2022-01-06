@@ -815,7 +815,7 @@ Plasma Theme
 
 Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
-Changelog: 01.01.2022.
+Changelog: 06.01.2022.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
