@@ -828,6 +828,19 @@ Plasma Theme
 
 Fixed widget: button.svg
 
+Changelog: 13.01.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (48, symbolic)
+
+Plasma Theme
+------------
+
+Fixed widget: busywidget.svg
+
 
 
 
