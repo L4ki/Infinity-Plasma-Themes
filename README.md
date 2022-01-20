@@ -842,6 +842,19 @@ Plasma Theme
 Fixed widget: busywidget.svg
 
 
+Changelog: 20.01.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (16) and status (symbolic)
+
+Plasma Theme
+------------
+
+Update widget: pager.svg
+
 
 
 
