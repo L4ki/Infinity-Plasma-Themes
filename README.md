@@ -855,6 +855,20 @@ Plasma Theme
 
 Update widget: pager.svg
 
+Changelog: 27.01.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: status (16)
+
+Plasma Theme
+------------
+
+Update widget: panel-background.svg
+
+
 
 
 
