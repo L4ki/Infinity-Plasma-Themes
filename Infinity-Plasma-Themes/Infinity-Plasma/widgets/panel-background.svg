@@ -135,17 +135,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.563602"
-     inkscape:cx="78.852801"
-     inkscape:cy="32.831949"
+     inkscape:zoom="2.5198471"
+     inkscape:cx="89.68798"
+     inkscape:cy="37.30385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -160,7 +160,7 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -171,7 +171,7 @@
        position="93,64.000024"
        orientation="0,1"
        id="guide1808"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
