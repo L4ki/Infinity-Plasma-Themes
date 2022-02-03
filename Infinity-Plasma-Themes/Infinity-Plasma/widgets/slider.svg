@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="95"
    height="85"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="slider.svg"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="31.199605"
-     inkscape:cy="30.131862"
+     inkscape:cx="31"
+     inkscape:cy="70.125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -575,6 +576,29 @@
        id="linearGradient4715"
        xlink:href="#linearGradient3704"
        inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient984">
+      <stop
+         id="stop974"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.49803922;"
+         offset="0.78947371"
+         id="stop976" />
+      <stop
+         id="stop978"
+         offset="0.84500837"
+         style="stop-color:#000000;stop-opacity:0.33333334;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.0877193;"
+         offset="0.90754884"
+         id="stop980" />
+      <stop
+         id="stop982"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -584,7 +608,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -593,35 +616,12 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       style="opacity:0.7;fill:#000000;fill-opacity:0.264423;stroke:none;stroke-width:0.912871"
-       id="path4137"
-       cx="12.120887"
-       cy="985.72125"
-       r="5" />
     <g
        id="horizontal-slider-line" />
     <g
-       transform="translate(-634.87911,230.35908)"
-       id="g4741">
-      <circle
-         transform="translate(-110,509.3622)"
-         id="path4733"
-         style="fill:#393939;fill-opacity:1;stroke:none"
-         cx="757"
-         cy="246"
-         r="4" />
-      <circle
-         style="fill:#565656;fill-opacity:0.364238;stroke:none"
-         id="path4735"
-         transform="matrix(1.0483107,0,0,1.0427863,-146.57118,498.81465)"
-         cx="757"
-         cy="246"
-         r="4" />
-    </g>
-    <g
        id="horizontal-slider-handle"
-       transform="translate(-55.301586,1.9242376)">
+       transform="translate(-55.301586,1.9242376)"
+       style="opacity:1">
       <rect
          style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none"
          id="rect4143"
@@ -666,7 +666,7 @@
          height="16"
          width="16"
          id="rect2932"
-         style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
       <ellipse
          transform="matrix(1,0,0,0.83333333,0,923.69551)"
          id="path2934"
@@ -999,6 +999,74 @@
          id="path1248"
          d="m 39.783649,61.898975 v 1 h -6 c 0,0 -0.02048,-1 6,-1 z"
          style="opacity:1;fill:#0066ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.79707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.772549;paint-order:normal" />
+    </g>
+    <g
+       id="horizontal-slider-hover"
+       transform="translate(0.66381836,10.615005)">
+      <rect
+         x="33"
+         y="1014.8622"
+         width="24"
+         height="24"
+         opacity="0"
+         id="rect7"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.687503" />
+      <circle
+         cx="45"
+         cy="1026.8622"
+         r="10"
+         fill="#4bc8ff"
+         opacity="0.2"
+         id="circle9"
+         style="opacity:0.01;fill:#cccccc;fill-opacity:0.01;stroke-width:0.572919" />
+      <ellipse
+         style="fill:#b3d1ff;fill-opacity:1;stroke:none;stroke-width:0.643304"
+         id="path3290-9"
+         cx="45.011856"
+         cy="1026.9327"
+         rx="6.9999065"
+         ry="7.0945001" />
+      <circle
+         transform="rotate(-90)"
+         id="path3292-1-3"
+         style="opacity:0.511814;fill:#b3d1ff;fill-opacity:1;stroke:none;stroke-width:0.730297"
+         cx="-1026.8622"
+         cy="45"
+         r="8" />
+    </g>
+    <g
+       id="horizontal-slider-focus"
+       transform="translate(0.66381836,10.615005)">
+      <rect
+         x="58"
+         y="1014.8622"
+         width="24"
+         height="24"
+         opacity="0"
+         id="rect14"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.687503" />
+      <circle
+         cx="70"
+         cy="1026.8622"
+         r="10"
+         fill="#4bc8ff"
+         opacity="0.3"
+         id="circle16"
+         style="opacity:0.01;fill:#cccccc;fill-opacity:0.01;stroke-width:0.572912" />
+      <ellipse
+         style="fill:#b3d1ff;fill-opacity:1;stroke:none;stroke-width:0.643304"
+         id="path3290-6"
+         cx="70.011856"
+         cy="1026.9327"
+         rx="6.9999065"
+         ry="7.0945001" />
+      <circle
+         transform="rotate(-90)"
+         id="path3292-2"
+         style="opacity:0.54069;fill:#b3d1ff;fill-opacity:1;stroke:none;stroke-width:0.730297"
+         cx="-1026.8622"
+         cy="70"
+         r="8" />
     </g>
   </g>
 </svg>
