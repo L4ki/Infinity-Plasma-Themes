@@ -868,6 +868,19 @@ Plasma Theme
 
 Update widget: panel-background.svg
 
+Changelog: 03.02.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: status (22)
+
+Plasma Theme
+------------
+
+Update widget: slider.svg
+
 
 
 
