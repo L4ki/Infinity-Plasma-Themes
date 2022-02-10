@@ -881,6 +881,19 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 10.02.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: applets (256)
+
+Plasma Theme
+------------
+
+Update widget: background.svg
+
 
 
 
