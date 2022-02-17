@@ -29,16 +29,16 @@
      id="namedview66"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="101.43986"
-     inkscape:cy="69.799828"
+     inkscape:cx="101.63162"
+     inkscape:cy="69.991585"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true">
     <inkscape:grid
        type="xygrid"
        id="grid948"
@@ -58,6 +58,18 @@
   </metadata>
   <defs
      id="defs3051">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1047">
+      <stop
+         style="stop-color:#bf616a;stop-opacity:1"
+         offset="0"
+         id="stop1043" />
+      <stop
+         style="stop-color:#e5bb67;stop-opacity:1"
+         offset="1"
+         id="stop1045" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient938">
@@ -289,7 +301,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1038"
+       xlink:href="#linearGradient1047"
        id="linearGradient1094"
        x1="2.99981"
        y1="20.999859"
@@ -298,7 +310,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1038"
+       xlink:href="#linearGradient1047"
        id="linearGradient1102"
        x1="26"
        y1="16"
