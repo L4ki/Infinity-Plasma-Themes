@@ -907,6 +907,20 @@ Plasma Theme
 
 Update icon: system.svg
 
+Changelog: 24.02.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: devices (16)
+
+Plasma Theme
+------------
+
+Update icon: input.svg
+
+
 
 
 
