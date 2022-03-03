@@ -920,6 +920,19 @@ Plasma Theme
 
 Update icon: input.svg
 
+Changelog: 03.03.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: devices (22)
+
+Plasma Theme
+------------
+
+Update widget: glowbar.svg
+
 
 
 
