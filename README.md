@@ -939,7 +939,7 @@ Changelog: 10.03.2022.
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Added new icons: actions (24)
+Added new icons: actions (32)
 
 Plasma Theme
 ------------
