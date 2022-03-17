@@ -946,6 +946,18 @@ Plasma Theme
 
 Update icon: window.svg
 
+Changelog: 17.03.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: devices (64)
+
+Plasma Theme
+------------
+
+Update icon: view.svg
 
 
 
