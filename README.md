@@ -1,6 +1,8 @@
 # Infinity-Plasma-Themes
 Infinity Themes For Plasma Desktop
 
+Download: https://www.pling.com/p/1436579
+
 Changelog: 04.11.2020.
 ---------------------
 
