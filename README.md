@@ -961,6 +961,19 @@ Plasma Theme
 
 Update icon: view.svg
 
+Changelog: 24.03.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes (16)
+
+Plasma Theme
+------------
+
+Update icon: battery.svg
+
 
 
 
