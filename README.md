@@ -988,6 +988,19 @@ Plasma Theme
 
 Update icon: kaffeine.svg
 
+Changelog: 07.04.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes (32)
+
+Plasma Theme
+------------
+
+Update icon: device.svg
+
 
 
 
