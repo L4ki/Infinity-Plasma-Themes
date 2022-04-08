@@ -999,7 +999,7 @@ Added new icons: mimetypes (32)
 Plasma Theme
 ------------
 
-Update icon: device.svg
+Update icon: device.svg. klipper.svg
 
 
 
