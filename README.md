@@ -1001,6 +1001,19 @@ Plasma Theme
 
 Update icon: device.svg. klipper.svg
 
+Changelog: 16.04.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes (64)
+
+Plasma Theme
+------------
+
+Update widget: button.svg
+
 
 
 
