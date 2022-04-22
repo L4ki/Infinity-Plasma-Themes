@@ -1014,6 +1014,19 @@ Plasma Theme
 
 Update widget: button.svg
 
+Changelog: 23.04.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (16)
+
+Plasma Theme
+------------
+
+Update icon: applications.svg
+
 
 
 
