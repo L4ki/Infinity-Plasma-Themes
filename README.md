@@ -1028,6 +1028,20 @@ Plasma Theme
 Update icon: applications.svg
 
 
+Changelog: 30.04.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (22)
+
+Plasma Theme
+------------
+
+Update icon: keyboard.svg
+
+
 
 
 
