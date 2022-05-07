@@ -1041,6 +1041,20 @@ Plasma Theme
 
 Update icon: keyboard.svg
 
+Changelog: 07.05.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions (24)
+
+Plasma Theme
+------------
+
+Update icon: choqok_offline.svg
+
+
 
 
 
