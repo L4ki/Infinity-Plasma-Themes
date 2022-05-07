@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="choqok_offline.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.8125"
-     inkscape:cx="36.025478"
+     inkscape:cx="33.477707"
      inkscape:cy="23.43949"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -74,7 +74,7 @@
        stroke-miterlimit="10"
        d="M -3.887871,-3.8135568 V 10.125958 c 0,0.919917 -0.74574,1.665648 -1.665654,1.665648 h -11.560018 l -6.177896,5.687673 v -5.687673 h -3.12212 c -0.919911,0 -1.665651,-0.745731 -1.665651,-1.665648 V -3.8135568 c 0,-0.9199147 0.74574,-1.6656532 1.665651,-1.6656532 h 20.860034 c 0.919914,0 1.665654,0.7457385 1.665654,1.6656532 z"
        id="path2"
-       style="opacity:0.6;stroke:#d3dae3;stroke-opacity:1" />
+       style="opacity:0.6;stroke:#ff557f;stroke-opacity:1" />
     <path
        d="m -22.110614,0.16123628 c -0.57843,0 -1,0.42047931 -1,1.00000002 0,0.5795207 0.42157,1 1,1 0.57843,0 1,-0.4204793 1,-1 0,-0.57952071 -0.42157,-1.00000002 -1,-1.00000002 z"
        id="path6"
@@ -106,7 +106,7 @@
        stroke-miterlimit="10"
        d="m 19.074757,4.457634 v 9.293007 c 0,0.61328 -0.497172,1.11043 -1.110445,1.11043 H 10.257639 L 6.139037,18.652854 V 14.861071 H 4.0576238 c -0.6132737,0 -1.1104338,-0.49715 -1.1104338,-1.11043 V 4.457634 c 0,-0.613275 0.4971601,-1.110444 1.1104338,-1.110444 H 17.964312 c 0.613273,0 1.110445,0.497169 1.110445,1.110444 z"
        id="path2-6"
-       style="opacity:0.6;stroke:#d3dae3;stroke-opacity:1" />
+       style="opacity:0.6;stroke:#ff557f;stroke-opacity:1" />
     <path
        d="m 6.8499999,7.1074818 c -0.4338235,0 -0.7499999,0.3153595 -0.7499999,0.75 0,0.4346404 0.3161764,0.75 0.7499999,0.75 0.4338237,0 0.7500001,-0.3153596 0.7500001,-0.75 0,-0.4346405 -0.3161764,-0.75 -0.7500001,-0.75 z"
        id="path6-3"
