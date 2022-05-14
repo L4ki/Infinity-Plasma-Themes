@@ -1054,6 +1054,19 @@ Plasma Theme
 
 Update icon: choqok_offline.svg
 
+Changelog: 14.05.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update icon: battery.svg
+
 
 
 
