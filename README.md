@@ -1067,6 +1067,25 @@ Plasma Theme
 
 Update icon: battery.svg
 
+Changelog: 21.05.2022.
+----------------------
+
+Icons "Infinity-Dark"
+---------------------
+
+Added new icons: actions 22
+
+Icons "Infinity-Light"
+---------------------
+
+Update icons: apps (system-file-manager)
+
+Plasma Theme
+------------
+
+Update widget: scrollbar.svg
+
+
 
 
 
