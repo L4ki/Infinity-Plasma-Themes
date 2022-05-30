@@ -1096,7 +1096,7 @@ Added new icons: actions 24
 Icons "Infinity-Light"
 ---------------------
 
-Update icons: actions 22
+Added new icons: actions 22
 
 Plasma Theme
 ------------
