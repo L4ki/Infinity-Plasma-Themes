@@ -1103,6 +1103,18 @@ Plasma Theme
 
 Update icon: document.svg
 
+Changelog: 06.06.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Ligfht"
+-------------------------------------------
+
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update icon: klipper.svg, nepomuk.svg, preferences.svg, video.svg
 
 
 
