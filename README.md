@@ -1114,7 +1114,20 @@ Added new icons: actions 16
 Plasma Theme
 ------------
 
-Update icon: klipper.svg, nepomuk.svg, preferences.svg, video.svg
+Update icons: klipper.svg, nepomuk.svg, preferences.svg, video.svg
+
+Changelog: 13.06.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Ligfht"
+-------------------------------------------
+
+Update icons: actions
+
+Plasma Theme
+------------
+
+Update icons: choqok, choqok_offline, kdeconnect, konv_message, konversation, utilities, plasmavault_error, plasmavault
 
 
 
