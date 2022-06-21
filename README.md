@@ -1129,6 +1129,20 @@ Plasma Theme
 
 Update icons: choqok, choqok_offline, kdeconnect, konv_message, konversation, utilities, plasmavault_error, plasmavault
 
+Changelog: 21.06.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Ligfht"
+-------------------------------------------
+
+Update icons: actions 24
+
+Plasma Theme
+------------
+
+Update icons: kruler, wallet, kget
+
+
 
 
 
