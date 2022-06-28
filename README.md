@@ -1142,6 +1142,19 @@ Plasma Theme
 
 Update icons: kruler, wallet, kget
 
+Changelog: 28.06.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Ligfht"
+-------------------------------------------
+
+Update icons: actions 22
+
+Plasma Theme
+------------
+
+Update icon: document.svg
+
 
 
 
