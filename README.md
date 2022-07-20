@@ -1106,7 +1106,7 @@ Update icon: document.svg
 Changelog: 06.06.2022.
 ----------------------
 
-Icons "Infinity-Dark" and "Infinity-Ligfht"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Added new icons: actions 16
@@ -1119,7 +1119,7 @@ Update icons: klipper.svg, nepomuk.svg, preferences.svg, video.svg
 Changelog: 13.06.2022.
 ----------------------
 
-Icons "Infinity-Dark" and "Infinity-Ligfht"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Update icons: actions
@@ -1132,7 +1132,7 @@ Update icons: choqok, choqok_offline, kdeconnect, konv_message, konversation, ut
 Changelog: 21.06.2022.
 ----------------------
 
-Icons "Infinity-Dark" and "Infinity-Ligfht"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Update icons: actions 24
@@ -1145,7 +1145,7 @@ Update icons: kruler, wallet, kget
 Changelog: 28.06.2022.
 ----------------------
 
-Icons "Infinity-Dark" and "Infinity-Ligfht"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Update icons: actions 22
@@ -1158,7 +1158,7 @@ Update icon: document.svg
 Changelog: 20.07.2022.
 ----------------------
 
-Icons "Infinity-Dark" and "Infinity-Ligfht"
+Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
 Added new icons: actions 16
