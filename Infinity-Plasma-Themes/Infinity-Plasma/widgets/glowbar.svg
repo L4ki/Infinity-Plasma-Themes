@@ -6,7 +6,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="glowbar.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,12 +25,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1000"
      id="namedview100"
      showgrid="false"
      inkscape:lockguides="false"
      inkscape:zoom="4.2142857"
-     inkscape:cx="27.288136"
+     inkscape:cx="27.40678"
      inkscape:cy="35.237288"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -38,9 +38,28 @@
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient1417">
+      <stop
+         style="stop-color:#08a19d;stop-opacity:1;"
+         offset="0"
+         id="stop1411"
+         class="ColorScheme-ButtonFocus" />
+      <stop
+         class="ColorScheme-ButtonFocus"
+         id="stop1413"
+         offset="0.5"
+         style="stop-color:#08a19d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#08a19d;stop-opacity:0;"
+         offset="1"
+         id="stop1415"
+         class="ColorScheme-ButtonFocus" />
+    </linearGradient>
     <linearGradient
        id="linearGradient934">
       <stop
@@ -343,7 +362,7 @@
          class="ColorScheme-ButtonFocus" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="linearGradient888"
        x1="28"
        y1="926.36218"
@@ -352,7 +371,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-2.8217188e-5)" />
     <linearGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="linearGradient888-2"
        x1="28.000004"
        y1="926.36218"
@@ -361,7 +380,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(904.36215,-960.36221)" />
     <linearGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="linearGradient888-9"
        x1="28"
        y1="926.36224"
@@ -370,7 +389,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-1864.7244)" />
     <linearGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="linearGradient888-6"
        x1="28.000027"
        y1="926.36218"
@@ -379,7 +398,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-960.36218,-904.36221)" />
     <radialGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="radialGradient1434"
        cx="22"
        cy="21.999973"
@@ -389,7 +408,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-7.6817312e-8,-1.9999999,2,-7.6817319e-8,-21.999945,970.36212)" />
     <radialGradient
-       xlink:href="#linearGradient934"
+       xlink:href="#linearGradient1417"
        id="radialGradient1434-2"
        cx="22"
        cy="21.999973"
@@ -399,7 +418,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(7.6817312e-8,-1.9999999,-2,-7.6817319e-8,77.999945,970.36212)" />
     <radialGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="radialGradient1434-9"
        cx="22"
        cy="21.999973"
@@ -409,7 +428,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(7.6817312e-8,1.9999999,-2,7.6817319e-8,77.999945,894.36218)" />
     <radialGradient
-       xlink:href="#linearGradient913"
+       xlink:href="#linearGradient1417"
        id="radialGradient1434-4"
        cx="22"
        cy="21.999973"
@@ -515,7 +534,7 @@
        height="11.999968"
        width="12"
        id="rect1580"
-       style="fill:#4e9fac;fill-opacity:1;fill-rule:evenodd" />
+       style="fill:#08a19d;fill-opacity:1;fill-rule:evenodd" />
   </g>
   <g
      transform="translate(0,-904.36218)"
