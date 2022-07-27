@@ -1168,6 +1168,20 @@ Plasma Theme
 
 Update widget: glowbar.svg
 
+Changelog: 27.07.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 24
+
+Plasma Theme
+------------
+
+Update widget: line.svg
+
+
 
 
 
