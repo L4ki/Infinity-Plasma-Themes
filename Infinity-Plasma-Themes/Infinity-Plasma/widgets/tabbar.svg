@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
    height="45.447437"
    width="200.72325"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="tabbar.svg"
-   viewBox="0 0 200.72326 45.447437">
+   viewBox="0 0 200.72326 45.447437"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
@@ -33,13 +32,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1000"
      inkscape:document-units="px"
      id="namedview99"
      showgrid="false"
      inkscape:zoom="2.828427"
-     inkscape:cx="96.986182"
-     inkscape:cy="48.636676"
+     inkscape:cx="97.934294"
+     inkscape:cy="23.334525"
      inkscape:current-layer="svg2"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -47,7 +46,8 @@
      fit-margin-bottom="10"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        originy="-0.74063862"
        originx="109.26264"
@@ -58,7 +58,7 @@
      id="defs4">
     <linearGradient
        id="hilight"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#b8b1b1;stop-opacity:1;;opacity:1"
          offset="0"
@@ -66,7 +66,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -74,8 +74,7 @@
     </linearGradient>
     <style
        id="current-color-scheme"
-       type="text/css">
-      }</style>
+       type="text/css" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#activetab-4"
@@ -338,7 +337,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-822"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -356,7 +355,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-533"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -374,7 +373,7 @@
        gradientTransform="matrix(1,0,0,-1,-16,0)" />
     <linearGradient
        id="activetab-4-107"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -392,7 +391,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-59"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -410,7 +409,7 @@
        gradientTransform="matrix(1,0,0,-1,-16,0)" />
     <linearGradient
        id="activetab-4-313"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -428,7 +427,7 @@
        gradientTransform="translate(-30.122066,-65.059389)" />
     <linearGradient
        id="activetab-4-325"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -446,7 +445,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-858"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -464,7 +463,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-46"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -482,7 +481,7 @@
        gradientTransform="translate(-27.999996,65.999974)" />
     <linearGradient
        id="activetab-4-221"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -500,7 +499,7 @@
        y2="-13.24064" />
     <linearGradient
        id="activetab-4-836"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -518,7 +517,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-80"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -536,7 +535,7 @@
        gradientTransform="translate(-27.999996,65.999977)" />
     <linearGradient
        id="activetab-4-924"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -554,7 +553,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-974"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -572,7 +571,7 @@
        gradientTransform="matrix(1,0,0,-1,-27.999995,-63.999986)" />
     <linearGradient
        id="activetab-4-776"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -590,7 +589,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-279"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -608,7 +607,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-547"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -626,7 +625,7 @@
        gradientTransform="translate(-27.999996,63.999986)" />
     <linearGradient
        id="activetab-4-808"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -644,7 +643,7 @@
        gradientTransform="translate(-27.999996,65.999977)" />
     <linearGradient
        id="activetab-4-409"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -662,7 +661,7 @@
        gradientTransform="matrix(1,0,0,-1,-27.999995,-63.999986)" />
     <linearGradient
        id="activetab-4-776-595"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -680,7 +679,7 @@
        gradientTransform="translate(-27.999996,63.999986)" />
     <linearGradient
        id="activetab-4-808-217"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -698,7 +697,7 @@
        gradientTransform="translate(-27.999996,65.999974)" />
     <linearGradient
        id="activetab-4-221-382"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -716,7 +715,7 @@
        gradientTransform="translate(-27.999996,65.999977)" />
     <linearGradient
        id="activetab-4-409-159"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -734,7 +733,7 @@
        gradientTransform="translate(-27.999996,65.999977)" />
     <linearGradient
        id="activetab-4-924-268"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -752,7 +751,7 @@
        gradientTransform="translate(-30.122066,-65.059389)" />
     <linearGradient
        id="activetab-4-325-345"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -770,7 +769,7 @@
        gradientTransform="matrix(1,0,0,-1,-16,0)" />
     <linearGradient
        id="activetab-4-313-88"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -788,7 +787,7 @@
        gradientTransform="matrix(1,0,0,-1,-16,0)" />
     <linearGradient
        id="activetab-4-107-919"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -806,7 +805,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-822-394"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -824,7 +823,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-59-17"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -842,7 +841,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-279-482"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -860,7 +859,7 @@
        gradientTransform="translate(-16)" />
     <linearGradient
        id="activetab-4-547-173"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -878,7 +877,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-46-821"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -896,7 +895,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-858-597"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -914,7 +913,7 @@
        y2="-13.24064" />
     <linearGradient
        id="activetab-4-836-575"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -932,7 +931,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-80-509"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -950,7 +949,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-533-473"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -968,7 +967,7 @@
        y2="104.8059" />
     <linearGradient
        id="activetab-4-974-907"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -976,7 +975,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-776-595-752"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -984,7 +983,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-808-217-346"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -992,7 +991,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-221-382-125"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1000,7 +999,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-409-159-663"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1008,7 +1007,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-924-268-9"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1016,7 +1015,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-325-345-309"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1024,7 +1023,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-313-88-865"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1032,7 +1031,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-107-919-579"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1040,7 +1039,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-822-394-388"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1048,7 +1047,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-59-17-853"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1056,7 +1055,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-279-482-682"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1064,7 +1063,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-547-173-297"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1072,7 +1071,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-46-821-91"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1080,7 +1079,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-858-597-419"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1088,7 +1087,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-836-575-70"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1096,7 +1095,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-80-509-561"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1104,7 +1103,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-533-473-330"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1112,7 +1111,7 @@
     </linearGradient>
     <linearGradient
        id="activetab-4-974-907-442"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ffffff;stop-opacity:0.09019608;;opacity:1"
          offset="0"
@@ -1127,7 +1126,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1181,7 +1179,7 @@
        id="rect4334"
        style="opacity:0.04;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.31327;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Highlight"
        id="AAA"
        width="15"
@@ -1245,7 +1243,7 @@
        x="33.368179"
        y="30.55715" />
     <path
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Highlight"
        d="m 33.368178,34.539712 h 5 c -10e-7,1 -10e-7,1 -5,1 z"
        id="CCC"
@@ -1270,7 +1268,7 @@
        width="15"
        id="DDD"
        class="ColorScheme-Highlight"
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44985;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44985;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <path
      sodipodi:nodetypes="cccc"
@@ -1295,7 +1293,7 @@
        id="BBB"
        class="ColorScheme-Highlight"
        d="m 33.368178,34.539712 h 5 c -10e-7,1 -10e-7,1 -5,1 z"
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41442;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41442;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      style="fill:#08a19d;fill-opacity:1"
@@ -1309,7 +1307,7 @@
        x="33.368179"
        y="30.55715" />
     <path
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 33.368178,34.540073 h 5 c -10e-7,1 -10e-7,1 -5,1 z"
        class="ColorScheme-Highlight"
        id="GGG"
@@ -1333,7 +1331,7 @@
        id="path884"
        d="m 33.368178,34.540073 h 5 c -10e-7,1 -10e-7,1 -5,1 z"
        class="ColorScheme-Highlight"
-       style="opacity:1;fill:#08a19d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#089995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      style="fill:#08a19d;fill-opacity:1"
@@ -1351,7 +1349,7 @@
          id="rect3279"
          style="fill:#08a19d;fill-opacity:1;stroke:none;opacity:0.05" />
       <rect
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:0.707107;fill-rule:evenodd"
+         style="opacity:1;fill:#089996;fill-opacity:1;stroke:none;stroke-width:0.707107;fill-rule:evenodd"
          id="rect3281"
          width="15"
          height="1"
@@ -1380,7 +1378,7 @@
          height="1"
          width="15.778103"
          id="rect3289"
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:1.14667;fill-rule:evenodd" />
+         style="opacity:1;fill:#089995;fill-opacity:1;stroke:none;stroke-width:1.14667;fill-rule:evenodd" />
     </g>
   </g>
   <g
@@ -1399,7 +1397,7 @@
          id="rect3295"
          style="fill:#08a19d;fill-opacity:1;stroke:none;opacity:0.05" />
       <rect
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:1.08865"
+         style="opacity:1;fill:#089995;fill-opacity:1;stroke:none;stroke-width:1.08865"
          id="rect3297"
          width="14.221917"
          height="1"
@@ -1473,7 +1471,7 @@
          height="1"
          width="15"
          id="rect3355"
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:0.707107;fill-rule:evenodd" />
+         style="opacity:1;fill:#089995;fill-opacity:1;stroke:none;stroke-width:0.707107;fill-rule:evenodd" />
     </g>
   </g>
   <g
@@ -1492,7 +1490,7 @@
          id="rect3361"
          style="fill:#08a19d;fill-opacity:1;stroke:none;opacity:0.05" />
       <rect
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:1.14667;fill-rule:evenodd"
+         style="opacity:1;fill:#089995;fill-opacity:1;stroke:none;stroke-width:1.14667;fill-rule:evenodd"
          id="rect3363"
          width="15.778103"
          height="1"
@@ -1521,7 +1519,7 @@
          height="1"
          width="14.221917"
          id="rect3371"
-         style="opacity:1;fill:#08a19d;fill-opacity:1;stroke:none;stroke-width:1.08865;fill-rule:evenodd" />
+         style="opacity:1;fill:#089995;fill-opacity:1;stroke:none;stroke-width:1.08865;fill-rule:evenodd" />
     </g>
   </g>
   <rect
