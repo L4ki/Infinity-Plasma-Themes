@@ -1194,6 +1194,19 @@ Plasma Theme
 
 Update widget: tabbar.svg
 
+Changelog: 10.08.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update widget: calendar.svg
+
 
 
 
