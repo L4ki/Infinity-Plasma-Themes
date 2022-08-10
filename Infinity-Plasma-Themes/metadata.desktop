@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Infinity-Plasma
+Comment=Infinity-Plasma Theme
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-Name=Infinity-Plasma
+X-KDE-PluginInfo-Version=12.1
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
