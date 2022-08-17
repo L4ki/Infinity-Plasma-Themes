@@ -1207,6 +1207,19 @@ Plasma Theme
 
 Update widget: calendar.svg
 
+Changelog: 17.08.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 24
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
+
 
 
 
