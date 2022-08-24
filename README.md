@@ -1220,6 +1220,19 @@ Plasma Theme
 
 Update widget: listitem.svg
 
+Changelog: 24.08.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: mimetypes
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
+
 
 
 
