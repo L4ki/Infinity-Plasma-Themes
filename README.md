@@ -1233,6 +1233,19 @@ Plasma Theme
 
 Update widget: tasks.svg
 
+Changelog: 31.08.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 22
+
+Plasma Theme
+------------
+
+Update icon: system.svg
+
 
 
 
