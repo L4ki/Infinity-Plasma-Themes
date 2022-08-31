@@ -4,7 +4,7 @@
    id="svg2"
    viewBox="0 0 54 128"
    sodipodi:docname="system.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="54"
    height="128"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,12 +25,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="998"
      id="namedview66"
      showgrid="false"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="101.63162"
-     inkscape:cy="69.991585"
+     inkscape:zoom="3.6875001"
+     inkscape:cx="58.711863"
+     inkscape:cy="73.355931"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,7 +38,8 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="true">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid948"
@@ -58,6 +59,18 @@
   </metadata>
   <defs
      id="defs3051">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1052">
+      <stop
+         style="stop-color:#b200b2;stop-opacity:1;"
+         offset="0"
+         id="stop1048" />
+      <stop
+         style="stop-color:#006dda;stop-opacity:1"
+         offset="1"
+         id="stop1050" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1047">
@@ -134,7 +147,7 @@
        inkscape:collect="always"
        id="linearGradient1060">
       <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
+         style="stop-color:#b200b2;stop-opacity:1;"
          offset="0"
          id="stop1056" />
       <stop
@@ -292,7 +305,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1060"
+       xlink:href="#linearGradient1052"
        id="linearGradient1070"
        x1="26"
        y1="16"
