@@ -1260,6 +1260,20 @@ Plasma Theme
 Added icons: distribute.svg, emblem.svg
 
 
+Changelog: 14.09.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 24
+
+Plasma Theme
+------------
+
+Added icon: juk.svg
+
+
 
 
 
