@@ -1273,6 +1273,20 @@ Plasma Theme
 
 Added icon: juk.svg
 
+Changelog: 21.09.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: places
+
+Plasma Theme
+------------
+
+Update widget: actionbutton.svg
+
+
 
 
 
