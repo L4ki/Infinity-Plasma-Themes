@@ -1287,6 +1287,25 @@ Plasma Theme
 Update widget: actionbutton.svg
 
 
+Changelog: 28.09.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added new icons: kdf.svg, skype.svg, thunderbird.svg, zoom.svg
+
+GTK Theme
+---------
+
+Update: assets, gtk.css
+
+
 
 
 
