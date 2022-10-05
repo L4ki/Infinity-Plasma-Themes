@@ -1305,6 +1305,19 @@ GTK Theme
 
 Update: assets, gtk.css
 
+Changelog: 05.10.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps
+
+Plasma Theme
+------------
+
+Added new widgets: configuration-icons.svg, toolbar.svg
+
 
 
 
