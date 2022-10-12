@@ -6,8 +6,8 @@
     </style>
   <g transform="translate(1,1)">
     <g class="ColorScheme-Text" fill="currentColor">
-      <path d="m3 3v16h16v-16zm5 1h10v14h-10z" stroke-linecap="square" stroke-linejoin="round"/>
-      <path d="m14.646484 6.6464844-4.353515 4.3535156 4.353515 4.353516.707032-.707032-3.646485-3.646484 3.646485-3.6464844z"/>
+      <path d="m19 3v16h-16v-16zm-5 1h-10v14h10z" stroke-linecap="square" stroke-linejoin="round"/>
+      <path d="m7.353516 6.6464844 4.353515 4.3535156-4.353515 4.353516-.707032-.707032 3.646485-3.646484-3.646485-3.6464844z"/>
     </g>
   </g>
 </svg>
