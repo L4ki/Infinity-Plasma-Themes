@@ -1318,6 +1318,19 @@ Plasma Theme
 
 Added new widgets: configuration-icons.svg, toolbar.svg
 
+Changelog: 12.10.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 24
+
+Plasma Theme
+------------
+
+Added new icons: krusader
+
 
 
 
