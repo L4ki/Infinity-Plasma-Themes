@@ -1331,6 +1331,19 @@ Plasma Theme
 
 Added new icons: krusader
 
+Changelog: 19.10.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update widget: scrollbar.svg
+
 
 
 
