@@ -1344,6 +1344,19 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
+Changelog: 26.10.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions 22
+
+Plasma Theme
+------------
+
+Update widget: lineedit.svg
+
 
 
 
