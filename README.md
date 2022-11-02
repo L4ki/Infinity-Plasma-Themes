@@ -1357,6 +1357,19 @@ Plasma Theme
 
 Update widget: lineedit.svg
 
+Changelog: 02.11.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps
+
+Plasma Theme
+------------
+
+Added icons: tools.svg, face.svg
+
 
 
 
