@@ -1370,6 +1370,19 @@ Plasma Theme
 
 Added icons: tools.svg, face.svg
 
+Changelog: 09.11.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: nulloy.svg
+
 
 
 
