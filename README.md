@@ -1383,6 +1383,19 @@ Plasma Theme
 
 Added icon: nulloy.svg
 
+Changelog: 17.11.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: knotes.svg, sirikali.svg, yakuake.svg
+
 
 
 
