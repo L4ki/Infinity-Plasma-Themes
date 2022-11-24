@@ -1396,6 +1396,19 @@ Plasma Theme
 
 Added icons: knotes.svg, sirikali.svg, yakuake.svg
 
+Changelog: 24.11.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: office.svg, plasma.svg
+
 
 
 
