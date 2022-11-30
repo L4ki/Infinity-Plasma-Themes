@@ -1409,6 +1409,19 @@ Plasma Theme
 
 Added icons: office.svg, plasma.svg
 
+Changelog: 01.12.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: mellowplayer.svg
+
 
 
 
