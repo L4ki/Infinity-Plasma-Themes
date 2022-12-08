@@ -1435,6 +1435,10 @@ Plasma Theme
 
 Added icons: veracrypt.svg, jami.svg
 
+GTK Theme
+----------
+
+Update: checkbox-checked-hover.png
 
 
 
