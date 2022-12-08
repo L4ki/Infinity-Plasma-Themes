@@ -1422,6 +1422,19 @@ Plasma Theme
 
 Added icon: mellowplayer.svg
 
+Changelog: 08.12.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: veracrypt.svg, jami.svg
+
 
 
 
