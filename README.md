@@ -1440,6 +1440,19 @@ GTK Theme
 
 Update: checkbox-checked-hover.png
 
+Changelog: 15.12.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Update icon: kalarm.svg
+
 
 
 
