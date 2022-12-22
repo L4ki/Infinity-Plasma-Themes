@@ -1453,6 +1453,19 @@ Plasma Theme
 
 Update icon: kalarm.svg
 
+Changelog: 22.12.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: audio.svg
+
 
 
 
