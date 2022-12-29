@@ -1466,6 +1466,18 @@ Plasma Theme
 
 Added icon: audio.svg
 
+Changelog: 29.12.2022.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Added icon: internet.svg
 
 
 
