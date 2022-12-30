@@ -1,7 +1,33 @@
 # Infinity-Plasma-Themes
 Infinity Themes For Plasma Desktop
 
+Infinity Plasma
+---------------   
+
 Download: https://www.pling.com/p/1436579
+
+
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+
+Screenshots:
+------------
+
+![Screenshot_20220928_151033](https://user-images.githubusercontent.com/45247573/210085326-6546a9a2-76d2-4a1c-b0ed-2810df92ffb7.png)
+
 
 Changelog: 04.11.2020.
 ---------------------
