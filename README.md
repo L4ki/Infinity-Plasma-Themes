@@ -1535,10 +1535,17 @@ Icons "Infinity-Dark" and "Infinity-Light"
 
 Added new icons: actions, apps, categories, places, preferences, status
 
+GTK Theme
+----------
+
+Update:  checkbox-checked.png
+
 Plasma Theme
 ------------
 
 Completely redesigned theme
+
+
 
 
 
