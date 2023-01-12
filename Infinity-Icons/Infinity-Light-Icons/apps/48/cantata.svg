@@ -1,29 +1,133 @@
-<svg width="48" xmlns="http://www.w3.org/2000/svg" height="48">
- <defs>
-  <linearGradient id="a" y1="21" x1="27" y2="37" x2="43" gradientUnits="userSpaceOnUse" gradientTransform="translate(-3-1)">
-   <stop stop-color="#292c2f"/>
-   <stop offset="1" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="b" y1="10" x1="1" y2="44" x2="35" gradientUnits="userSpaceOnUse" gradientTransform="translate(.366-.856)">
-   <stop stop-color="#2980b9"/>
-   <stop offset="1" stop-color="#1a7459"/>
-  </linearGradient>
-  <linearGradient id="c" y1="5" x1="2" y2="43" x2="40" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2ecc71"/>
-   <stop offset="1" stop-color="#55b019"/>
-  </linearGradient>
- </defs>
- <g stroke-linejoin="round" stroke-width="2">
-  <g fill="#bdc3c7">
-   <circle cx="24" cy="24" r="20" stroke-linecap="round"/>
-   <path d="M43.978516 23.417969A20 20 0 0 1 24 43 20 20 0 0 1 4.02148 23.582031 20 20 0 0 0 4 24 20 20 0 0 0 24 44 20 20 0 0 0 44 24 20 20 0 0 0 43.978516 23.417969"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg7226"
+   sodipodi:docname="cantata.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7228"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24.101695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7226" />
+  <defs
+     id="defs7204">
+    <linearGradient
+       id="a"
+       y1="21"
+       x1="27"
+       y2="37"
+       x2="43"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3,-1)">
+      <stop
+         stop-color="#292c2f"
+         id="stop7189" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop7191" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="10"
+       x1="1"
+       y2="44"
+       x2="35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.366,-0.856)">
+      <stop
+         stop-color="#2980b9"
+         id="stop7194" />
+      <stop
+         offset="1"
+         stop-color="#1a7459"
+         id="stop7196" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       y1="5"
+       x1="2"
+       y2="43"
+       x2="40"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2ecc71"
+         id="stop7199" />
+      <stop
+         offset="1"
+         stop-color="#55b019"
+         id="stop7201" />
+    </linearGradient>
+  </defs>
+  <g
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="g7218"
+     transform="matrix(1.05,0,0,1.05,-1.19995,-1.2)">
+    <g
+       fill="#bdc3c7"
+       id="g7210">
+      <circle
+         cx="24"
+         cy="24"
+         r="20"
+         stroke-linecap="round"
+         id="circle7206" />
+      <path
+         d="M 43.978516,23.417969 A 20,20 0 0 1 24,43 20,20 0 0 1 4.02148,23.582031 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 43.978516,23.417969"
+         id="path7208" />
+    </g>
+    <path
+       fill="url(#c)"
+       d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 38.13281,38.13281 L 24,24 38.13,9.867 A 20,20 0 0 0 24,4"
+       id="path7212"
+       style="fill:url(#c)" />
+    <path
+       fill="#258e52"
+       d="M 4.02,23.418 C 4.01,23.612 4.003,23.806 3.999,24 c 0,11.05 8.954,20 20,20 5.302,-0.005 10.386,-2.115 14.13,-5.867 L 37.608,37.612 C 33.915,41.064 29.052,42.989 23.997,43.001 13.121,42.992 4.246,34.293 4.018,23.419"
+       id="path7214" />
+    <circle
+       fill="#fcfcfc"
+       cx="24"
+       cy="24"
+       r="16"
+       stroke-linecap="round"
+       id="circle7216" />
   </g>
-  <path fill="url(#c)" d="M24 4A20 20 0 0 0 4 24 20 20 0 0 0 24 44 20 20 0 0 0 38.13281 38.13281L24 24 38.13 9.867A20 20 0 0 0 24 4"/>
-  <path fill="#258e52" d="m4.02 23.418c-.01.194-.017.388-.021.582 0 11.05 8.954 20 20 20 5.302-.005 10.386-2.115 14.13-5.867l-.521-.521c-3.693 3.452-8.556 5.377-13.611 5.389-10.876-.009-19.751-8.708-19.979-19.582"/>
-  <circle fill="#fcfcfc" cx="24" cy="24" r="16" stroke-linecap="round"/>
- </g>
- <g fill-rule="evenodd">
-  <path opacity=".2" fill="url(#a)" d="m25 5l-1 5v24l-9.602 7.855c2.121.75 4.352 2.137 6.602 2.145 11.05 0 23-8.954 23-20-.008-.715-19-19-19-19"/>
-  <path fill="url(#b)" d="m22 4l3 1c0 0 1.242 3.822 2.242 4.822 1.581 1.581 7.758 5.178 7.758 13.178 0 6-4 10-9 13 5-5 7-7 7-13 0-8-8-9-8-9v21.775c0 2.225-2.097 5.918-5.519 7.339-4.338 1.797-8.883.771-10.15-2.291-1.267-3.061 1.22-6.999 5.557-8.795 2.591-1.074 5.02-1.32 7.113-.417z"/>
- </g>
+  <g
+     fill-rule="evenodd"
+     id="g7224"
+     transform="matrix(1.05,0,0,1.05,-1.19995,-1.2)">
+    <path
+       opacity="0.2"
+       fill="url(#a)"
+       d="m 25,5 -1,5 v 24 l -9.602,7.855 C 16.519,42.605 18.75,43.992 21,44 32.05,44 44,35.046 44,24 43.992,23.285 25,5 25,5"
+       id="path7220"
+       style="fill:url(#a)" />
+    <path
+       fill="url(#b)"
+       d="m 22,4 3,1 c 0,0 1.242,3.822 2.242,4.822 C 28.823,11.403 35,15 35,23 c 0,6 -4,10 -9,13 5,-5 7,-7 7,-13 0,-8 -8,-9 -8,-9 v 21.775 c 0,2.225 -2.097,5.918 -5.519,7.339 -4.338,1.797 -8.883,0.771 -10.15,-2.291 -1.267,-3.061 1.22,-6.999 5.557,-8.795 2.591,-1.074 5.02,-1.32 7.113,-0.417 z"
+       id="path7222"
+       style="fill:url(#b)" />
+  </g>
 </svg>
