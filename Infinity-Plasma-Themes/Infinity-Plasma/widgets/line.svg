@@ -6,7 +6,7 @@
    height="45"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -30,16 +30,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="33.319234"
-     inkscape:cx="26.321134"
-     inkscape:cy="48.005306"
+     inkscape:zoom="11.780128"
+     inkscape:cx="31.196605"
+     inkscape:cy="23.896175"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -73,7 +73,7 @@
      id="defs4">
     <style
        id="current-color-scheme"
-       type="text/css"></style>
+       type="text/css" />
   </defs>
   <metadata
      id="metadata7">
@@ -115,7 +115,7 @@
          inkscape:connector-curvature="0"
          id="path2998"
          d="m 33.96875,13.59375 v 40 h 0.25 v -40 z"
-         style="color:#31363b;fill:#2e75bc;fill-opacity:1;stroke:none;stroke-width:0.5" />
+         style="color:#31363b;fill:#2e75bc;fill-opacity:0.2;stroke:none;stroke-width:0.5" />
     </g>
     <g
        id="horizontal-line"
