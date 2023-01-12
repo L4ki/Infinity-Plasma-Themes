@@ -1527,6 +1527,21 @@ Plasma Theme
 Added icon: krfb.svg
 
 
+Changelog: 12.01.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: actions, apps 32, 48, categories, places, preferences, status
+
+Plasma Theme
+------------
+
+Completely redesigned theme
+
+
+
 
 
 
