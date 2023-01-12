@@ -9,10 +9,33 @@
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs32" />
+     id="defs32">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient873">
+      <stop
+         style="stop-color:#494c50;stop-opacity:1;"
+         offset="0"
+         id="stop869" />
+      <stop
+         style="stop-color:#3a455f;stop-opacity:1;"
+         offset="1"
+         id="stop871" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient873"
+       id="linearGradient875"
+       x1="1.3229166"
+       y1="263.26561"
+       x2="66.145831"
+       y2="263.26561"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="namedview30"
      pagecolor="#ffffff"
@@ -24,10 +47,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="43.84062"
-     inkscape:cy="29.521708"
+     inkscape:cx="44.194173"
+     inkscape:cy="29.610096"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,10 +64,10 @@
        width="64.822914"
        height="64.822906"
        ry="32.411453"
-       fill="#2f3134"
        stroke-width="0.316209"
        id="rect2"
-       rx="32.411457" />
+       rx="32.411457"
+       style="fill-opacity:1;fill:url(#linearGradient875)" />
     <rect
        x="13.229167"
        y="241.43748"
