@@ -4,7 +4,7 @@
    height="48"
    version="1.1"
    id="svg68"
-   sodipodi:docname="ksnapshot.svg"
+   sodipodi:docname="ksnip.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -32,6 +32,18 @@
      inkscape:current-layer="svg68" />
   <defs
      id="defs32">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1012">
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="0"
+         id="stop1008" />
+      <stop
+         style="stop-color:#00baba;stop-opacity:1;"
+         offset="1"
+         id="stop1010" />
+    </linearGradient>
     <linearGradient
        id="a"
        y1="536.8"
@@ -464,6 +476,15 @@
        y1="49.422001"
        x2="-228.53999"
        y2="52.341999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1012"
+       id="linearGradient1014"
+       x1="0.85039997"
+       y1="8.0319996"
+       x2="16.7254"
+       y2="8.0319996"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="matrix(2.6456693,0,0,2.6456693,0.75012284,2.7499853)"
@@ -473,10 +494,9 @@
        cy="8.0319996"
        r="7.9375"
        color="#000000"
-       fill="url(#a-3)"
        stroke-width="0.26458"
        id="circle5404"
-       style="fill:url(#a-3)" />
+       style="fill-opacity:1;fill:url(#linearGradient1014)" />
     <circle
        transform="matrix(0.40803,0,0,0.41645,120.94,-10.212)"
        cx="-274.87"
