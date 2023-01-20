@@ -11,7 +11,41 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs3406" />
+     id="defs3406">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1746">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="0"
+         id="stop1742" />
+      <stop
+         style="stop-color:#8787de;stop-opacity:1"
+         offset="1"
+         id="stop1744" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1590">
+      <stop
+         stop-color="#2a7fff"
+         offset="0"
+         id="stop1586"
+         style="stop-color:#8787de;stop-opacity:1" />
+      <stop
+         stop-color="#0cf"
+         offset="1"
+         id="stop1588" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1746"
+       id="linearGradient1748"
+       x1="77.500038"
+       y1="173.43884"
+       x2="150.83049"
+       y2="238.06923"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="namedview3404"
      pagecolor="#ffffff"
@@ -23,10 +57,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="24.101695"
+     inkscape:cy="24.101695"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +86,8 @@
     <stop
        stop-color="#0055d4"
        offset="0"
-       id="stop3332" />
+       id="stop3332"
+       style="stop-color:#3a89ff;stop-opacity:1;" />
     <stop
        stop-color="#06f"
        stop-opacity="0"
@@ -182,7 +217,7 @@
      y2="42.051666"
      gradientTransform="matrix(0.44648217,0,0,0.43479451,59.664951,148.26025)"
      gradientUnits="userSpaceOnUse"
-     xlink:href="#a" />
+     xlink:href="#linearGradient1590" />
   <linearGradient
      id="m"
      x1="68.210472"
@@ -215,10 +250,9 @@
        cy="215.74455"
        rx="55.812187"
        ry="54.351181"
-       fill="url(#l)"
        stroke-width="0.045484"
        id="ellipse3378"
-       style="fill:url(#l)" />
+       style="fill-opacity:1;fill:url(#linearGradient1748)" />
     <path
        d="m 104.42761,173.43884 c -3.17498,21.38886 -11.196398,24.89739 -26.927573,45.50887 l 4.506763,10.66624 38.2124,38.21262 a 55.812184,55.812184 0 0 0 43.27959,-50.62107 l -42.76116,-42.76116 z"
        fill="url(#b)"
