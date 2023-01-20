@@ -22,16 +22,46 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="24.305085"
+     inkscape:cy="24.305085"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1675" />
   <defs
      id="defs1649">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient936">
+      <stop
+         style="stop-color:#aa87de;stop-opacity:1"
+         offset="0"
+         id="stop932" />
+      <stop
+         style="stop-color:#33d5ff;stop-opacity:1;"
+         offset="1"
+         id="stop934" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient289"
+       y1="543.8"
+       y2="513.8"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.125 0 0 1-51.07 0)">
+      <stop
+         stop-color="#197cf1"
+         id="stop285"
+         style="stop-color:#ffc299;stop-opacity:1;"
+         offset="0" />
+      <stop
+         offset="1"
+         stop-color="#20bcfa"
+         id="stop287"
+         style="stop-color:#ff99ff;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="a"
        y1="543.8"
@@ -137,7 +167,7 @@
          id="stop1646" />
     </linearGradient>
     <linearGradient
-       xlink:href="#a"
+       xlink:href="#linearGradient289"
        id="linearGradient4151"
        gradientUnits="userSpaceOnUse"
        x1="24"
@@ -205,16 +235,25 @@
        y1="23"
        x2="32"
        y2="39" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient936"
+       id="linearGradient938"
+       x1="23.396297"
+       y1="32.025303"
+       x2="23.416798"
+       y2="11.625639"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
-     style="fill:url(#linearGradient4151);fill-opacity:1;stroke:none;stroke-width:1.05"
      width="41.999985"
      height="41.999985"
      x="3.0000076"
      y="3.0000076"
      ry="20.999992"
      rx="20.999992"
-     id="rect16" />
+     id="rect16"
+     style="fill:url(#linearGradient938);fill-opacity:1" />
   <text
      id="text24"
      xml:space="preserve"
