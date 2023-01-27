@@ -1559,6 +1559,19 @@ Plasma Theme
 Added icon: cadence.svg
 
 
+Changelog: 27.01.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Added icons: onboard.svg, offline.svg
+
 
 
 
