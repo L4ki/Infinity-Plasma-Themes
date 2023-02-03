@@ -1573,6 +1573,25 @@ Plasma Theme
 Added icons: onboard.svg, offline.svg
 
 
+Changelog: 03.02.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: checkbox-checked-insensitive.png
+
+Plasma Theme
+------------
+
+Added icon: lutris.svg
+
+
 
 
 
