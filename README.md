@@ -1591,6 +1591,24 @@ Plasma Theme
 
 Added icon: lutris.svg
 
+Changelog: 10.02.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: checkbox-mixed-insensitive.png
+
+Plasma Theme
+------------
+
+Added icons: list.svg, configure.svg
+
 
 
 
