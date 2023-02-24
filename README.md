@@ -1622,6 +1622,19 @@ Plasma Theme
 
 Added icons: desktop.svg, process.svg
 
+Changelog: 24.02.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: ring.svg
+
 
 
 
