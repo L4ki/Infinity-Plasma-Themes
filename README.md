@@ -1648,6 +1648,18 @@ Plasma Theme
 
 Added icon: org.rnd2.cpupower_gui.svg
 
+Changelog: 12.03.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: antimicro.svg
 
 
 
