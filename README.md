@@ -1674,7 +1674,7 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
-Changelog: 26.03.2023.
+Changelog: 27.03.2023.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -1686,6 +1686,10 @@ Plasma Theme
 ------------
 
 Added icon: quota.svg
+
+GTK-Theme
+---------
+Update:  tab-vert-gap.png
 
 
 
