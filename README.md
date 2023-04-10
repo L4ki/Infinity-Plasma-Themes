@@ -1704,6 +1704,18 @@ Plasma Theme
 
 Added icon: microphone.svg
 
+Changelog: 10.04.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: strawberry.svg
 
 
 
