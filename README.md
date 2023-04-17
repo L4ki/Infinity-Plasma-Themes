@@ -1717,6 +1717,27 @@ Plasma Theme
 
 Added icon: strawberry.svg
 
+Changelog: 17.04.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
+GTK Theme
+---------
+
+Update: tab-horz-gap.png
+
+
+
+
 
 
 
