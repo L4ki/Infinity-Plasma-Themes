@@ -1736,6 +1736,24 @@ GTK Theme
 Update: tab-horz-gap.png
 
 
+Changelog: 25.04.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: lineedit.svg
+
+GTK Theme
+---------
+
+Update: handle-horz.png, handle-vert.png
+
 
 
 
