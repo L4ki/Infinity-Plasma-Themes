@@ -1754,6 +1754,23 @@ GTK Theme
 
 Update: handle-horz.png, handle-vert.png
 
+Changelog: 02.05.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
+
+GTK Theme
+---------
+
+Update: focus.png
 
 
 
