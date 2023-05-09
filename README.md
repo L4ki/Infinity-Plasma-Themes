@@ -1772,6 +1772,24 @@ GTK Theme
 
 Update: focus.png
 
+Changelog: 09.05.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
+GTK Theme
+---------
+
+Update: frame.png
+
 
 
 
