@@ -1790,6 +1790,24 @@ GTK Theme
 
 Update: frame.png
 
+Changelog: 16.05.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: tooltip.svg (solid)
+
+GTK Theme
+---------
+
+Update: gtk-3.0, gtk-4.0
+
 
 
 
