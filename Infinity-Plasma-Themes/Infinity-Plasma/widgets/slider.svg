@@ -4,7 +4,7 @@
    height="86.000015"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="slider.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="30.125"
-     inkscape:cy="59.5"
+     inkscape:cx="19.375"
+     inkscape:cy="59.625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -622,36 +622,38 @@
        transform="rotate(-90,20.554582,1042.7528)"
        id="vertical-slider-line" />
     <g
-       id="horizontal-slider-handle"
-       transform="translate(21.999999,5.0444373)">
+       id="horizontal-slider-handle">
       <rect
-         y="1034.4943"
-         x="-55.336075"
-         height="18"
-         width="18"
+         y="1037.5392"
+         x="-35.336063"
+         height="21.999453"
+         width="21.999393"
          id="rect2932-6"
-         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.125" />
-      <circle
+         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.37496" />
+      <ellipse
          id="path2934-7"
-         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:1.64324"
-         cx="-46.336075"
-         cy="1043.4943"
-         r="9" />
-      <circle
-         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.8"
+         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:2.00839"
+         cx="-24.33638"
+         cy="1048.5394"
+         rx="10.999697"
+         ry="10.999726" />
+      <ellipse
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2.19994"
          id="path2936-5"
-         cx="-46.336075"
-         cy="1043.4386"
-         r="7.1999941" />
-      <circle
+         cx="-24.33638"
+         cy="1048.4706"
+         rx="8.7997494"
+         ry="8.7997732" />
+      <ellipse
          id="path2938-3"
-         style="fill:#363b49;fill-opacity:1;stroke:none;stroke-width:1.92857"
-         cx="-46.336075"
-         cy="1043.4943"
-         r="7.7142849" />
+         style="fill:#363b49;fill-opacity:1;stroke:none;stroke-width:2.35703"
+         cx="-24.33638"
+         cy="1048.5394"
+         rx="9.4283104"
+         ry="9.4283361" />
       <rect
-         x="-58.336075"
-         y="1031.4943"
+         x="-36.336075"
+         y="1036.5387"
          width="24"
          height="24"
          opacity="0"
@@ -659,36 +661,35 @@
          style="stroke-width:0.687503" />
     </g>
     <g
-       id="horizontal-slider-hover"
-       transform="translate(10.999999,5.0444513)">
+       id="horizontal-slider-hover">
       <rect
-         y="1034.4943"
-         x="-15.336075"
-         height="18"
-         width="18"
+         y="1037.5387"
+         x="-6.3360748"
+         height="21.999388"
+         width="21.999388"
          id="rect2932-62-0"
-         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.125" />
+         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.37496" />
       <circle
          id="path2934-9-9"
-         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:1.64324"
-         cx="-6.3360748"
-         cy="1043.4943"
-         r="9" />
+         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:2.00838"
+         cx="4.6636181"
+         cy="1048.5391"
+         r="10.999694" />
       <circle
-         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.8"
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2.19994"
          id="path2936-1-3"
-         cx="-6.3360748"
-         cy="1043.4381"
-         r="7.1999931" />
+         cx="4.6636181"
+         cy="1048.4696"
+         r="8.7997456" />
       <circle
          id="path2938-2-6"
-         style="fill:#616a84;fill-opacity:1;stroke:none;stroke-width:1.92852"
-         cx="-6.3360748"
-         cy="1043.4943"
-         r="7.714283" />
+         style="fill:#616a84;fill-opacity:1;stroke:none;stroke-width:2.35698"
+         cx="4.6636181"
+         cy="1048.5391"
+         r="9.4283037" />
       <rect
-         x="-18.336075"
-         y="1031.4943"
+         x="-7.3360758"
+         y="1036.5387"
          width="24"
          height="24"
          opacity="0"
@@ -696,36 +697,38 @@
          style="stroke-width:0.687503" />
     </g>
     <g
-       id="horizontal-slider-focus"
-       transform="translate(0,0.0444373)">
+       id="horizontal-slider-focus">
       <rect
-         y="1039.4943"
-         x="24.663927"
-         height="18"
-         width="18"
+         y="1037.5387"
+         x="22.663923"
+         height="21.999319"
+         width="21.999371"
          id="rect2932-6-2"
-         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.125" />
-      <circle
+         style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none;stroke-width:1.37496" />
+      <ellipse
          id="path2934-7-9"
-         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:1.64324"
-         cx="33.663925"
-         cy="1048.4943"
-         r="9" />
-      <circle
-         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.8"
+         style="fill:#20212d;fill-opacity:1;stroke:none;stroke-width:2.00838"
+         cx="33.66362"
+         cy="1048.5391"
+         rx="10.999685"
+         ry="10.99966" />
+      <ellipse
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2.19992"
          id="path2936-5-1"
-         cx="33.663925"
-         cy="1048.4386"
-         r="7.1999941" />
-      <circle
+         cx="33.66362"
+         cy="1048.4701"
+         rx="8.7997398"
+         ry="8.7997189" />
+      <ellipse
          id="path2938-3-2"
-         style="fill:#414858;fill-opacity:1;stroke:none;stroke-width:1.92857"
-         cx="33.663925"
-         cy="1048.4943"
-         r="7.7142849" />
+         style="fill:#414858;fill-opacity:1;stroke:none;stroke-width:2.35702"
+         cx="33.66362"
+         cy="1048.5391"
+         rx="9.428299"
+         ry="9.428277" />
       <rect
          x="21.663925"
-         y="1036.4943"
+         y="1036.5387"
          width="24"
          height="24"
          opacity="0"
