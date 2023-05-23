@@ -1809,6 +1809,25 @@ GTK Theme
 Update: gtk-3.0, gtk-4.0
 
 
+Changelog: 23.05.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: places
+
+Plasma Theme
+------------
+
+Update widget: slider.svg
+
+GTK Theme
+---------
+
+Update: line.png
+
+
 
 
 
