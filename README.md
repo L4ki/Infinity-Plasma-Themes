@@ -1876,7 +1876,7 @@ Added new icons: apps 32, 48
 Plasma Theme
 ------------
 
-Update: ometadata.desktop
+Update: metadata.desktop
 
 GTK Theme
 ---------
