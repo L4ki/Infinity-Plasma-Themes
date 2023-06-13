@@ -1865,6 +1865,24 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 13.06.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update: ometadata.desktop
+
+GTK Theme
+---------
+
+Update: tab-up.png
+
 
 
 
