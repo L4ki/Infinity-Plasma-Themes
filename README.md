@@ -1883,6 +1883,23 @@ GTK Theme
 
 Update: tab-up.png
 
+Changelog: 20.06.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: accessories.svg
+
+GTK Theme
+---------
+
+Update: tab-right-active.png, tab-left-active.png
 
 
 
