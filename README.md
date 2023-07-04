@@ -1921,6 +1921,25 @@ GTK Theme
 Update: tab-down-active.png
 
 
+Changelog: 07.07.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: slider.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0
+
+
 
 
 
