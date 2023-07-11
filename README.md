@@ -1939,6 +1939,24 @@ GTK Theme
 
 Update: gtk-3.0
 
+Changelog: 11.07.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: slc.svg
+
+GTK Theme
+---------
+
+Update: bullet-symbolic.svg
+
 
 
 
