@@ -1986,12 +1986,12 @@ Added new icons: apps 32
 Plasma Theme
 ------------
 
-Added widget: translucentbackground.svg
+Added widget: radiobutton.svg
 
 GTK Theme
 ---------
 
-Update: checkmark-symbolic.svg
+Update: dash-symbolic.svg
 
 
 
