@@ -1975,6 +1975,24 @@ GTK Theme
 
 Update: checkmark-symbolic.svg
 
+Changelog: 25.07.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Added widget: translucentbackground.svg
+
+GTK Theme
+---------
+
+Update: checkmark-symbolic.svg
+
 
 
 
