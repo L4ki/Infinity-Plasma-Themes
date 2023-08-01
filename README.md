@@ -1994,6 +1994,24 @@ GTK Theme
 Update: dash-symbolic.svg
 
 
+Changelog: 01.08.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: switch.svg
+
+GTK Theme
+---------
+
+Update: gtk-2.0
+
 
 
 
