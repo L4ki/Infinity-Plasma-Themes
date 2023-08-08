@@ -2012,6 +2012,24 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelog: 08.08.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: monitor.svg
+
+GTK Theme
+---------
+
+Update: gtkrc
+
 
 
 
