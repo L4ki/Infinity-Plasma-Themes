@@ -2102,6 +2102,24 @@ GTK Theme
 
 Update: tab-right.png
 
+Changelog: 13.09.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added: wind-arrows.svg
+
+GTK Theme
+---------
+
+Update: border.png
+
 
 
 
