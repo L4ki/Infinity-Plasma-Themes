@@ -2120,6 +2120,24 @@ GTK Theme
 
 Update: border.png
 
+Changelog: 20.09.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: dragger.svg
+
+GTK Theme
+---------
+
+Update: frame-notebook.png
+
 
 
 
