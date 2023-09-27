@@ -2138,6 +2138,25 @@ GTK Theme
 
 Update: frame-notebook.png
 
+Changelog: 27.09.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: frame.svg
+
+GTK Theme
+---------
+
+Update: frame.png
+
+
 
 
 
