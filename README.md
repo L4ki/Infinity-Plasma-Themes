@@ -2192,6 +2192,24 @@ GTK Theme
 
 Update: frame-inline.png
 
+Changelog: 18.10.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: line.svg
+
+GTK Theme
+---------
+
+Update: menu-border.png
+
 
 
 
