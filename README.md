@@ -2210,6 +2210,23 @@ GTK Theme
 
 Update: menu-border.png
 
+Changelog: 25.10.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: menubaritem.svg
+
+GTK Theme
+---------
+
+Update: handle.png
 
 
 
