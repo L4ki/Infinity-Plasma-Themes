@@ -2228,6 +2228,24 @@ GTK Theme
 
 Update: handle.png
 
+Changelog: 01.11.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: panel-background.svg
+
+GTK Theme
+---------
+
+Update: treeview-separator-ltr.png
+
 
 
 
