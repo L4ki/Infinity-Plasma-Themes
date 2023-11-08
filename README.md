@@ -2246,6 +2246,23 @@ GTK Theme
 
 Update: treeview-separator-ltr.png
 
+Changelog: 08.11.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: transform.svg
+
+GTK Theme
+---------
+
+Update: treeview-separator-rtl.png
 
 
 
