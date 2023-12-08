@@ -2319,6 +2319,24 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 08.12.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: telegram.svg
+
+GTK Theme
+---------
+
+Update: styles
+
 
 
 
