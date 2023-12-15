@@ -2337,6 +2337,24 @@ GTK Theme
 
 Update: styles
 
+Changelog: 15.12.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: plot-background.svg
+
+GTK Theme
+---------
+
+Update: checkbox-checked.png
+
 
 
 
