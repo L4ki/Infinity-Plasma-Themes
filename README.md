@@ -2355,6 +2355,24 @@ GTK Theme
 
 Update: checkbox-checked.png
 
+Changelog: 22.12.2023.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: timer.svg
+
+GTK Theme
+---------
+
+Update:gtkrc
+
 
 
 
