@@ -2391,6 +2391,20 @@ GTK Theme
 
 Update:gtk-4.0
 
+Changelog: 05.01.2024.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: switch.svg
+
+
 
 
 
