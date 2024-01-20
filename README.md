@@ -2417,6 +2417,19 @@ Plasma Theme
 
 Added icon: solaar.svg
 
+Changelog: 20.01.2024.
+----------------------
+
+Icons "Infinity-Dark" and "Infinity-Light"
+-------------------------------------------
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: background.svg
+
 
 
 
