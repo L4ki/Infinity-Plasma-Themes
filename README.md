@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 27.01.2024.
+Changelog: 03.02.2024.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -51,8 +51,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: osd.svg
-
+Update: colors
 
 
 
