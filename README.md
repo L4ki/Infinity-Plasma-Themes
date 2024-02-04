@@ -53,5 +53,10 @@ Plasma Theme
 
 Update: colors
 
+GTK Theme
+---------
+
+Update: main.rc
+
 
 
