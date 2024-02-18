@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 11.02.2024.
+Changelog: 18.02.2024.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -51,12 +51,12 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: sogoupinyin.svg
+Added widget: branding.svg
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks-dark.rc
 
 
 
