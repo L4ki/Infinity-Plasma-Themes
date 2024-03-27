@@ -56,7 +56,7 @@ Update widget : arrows.svg
 GTK Theme
 ---------
 
-Update: handle.png
+Update: gtk-3.0
 
 
 
