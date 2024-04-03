@@ -53,7 +53,9 @@ Plasma Theme
 
 Update widget : listitem.svg
 
-
+GTK-Theme
+---------
+Update: gtk-4.0
 
 
 
