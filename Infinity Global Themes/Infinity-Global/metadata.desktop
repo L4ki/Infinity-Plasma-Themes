@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Infinity-Global Look And Feel
+Name=Infinity-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Infinity-Global
+X-KDE-PluginInfo-Version=20.5
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1436564,kns://colorschemes.knsrc/api.kde-look.org/1436562,kns://plasma-themes.knsrc/api.kde-look.org/1436579,kns://aurorae.knsrc/api.kde-look.org/1972103,kns://aurorae.knsrc/api.kde-look.org/1436560,kns://aurorae.knsrc/api.kde-look.org/1439900,kns://icons.knsrc/api.kde-look.org/1436570,kns://icons.knsrc/api.kde-look.org/1436567,kns://icons.knsrc/api.kde-look.org/2091068,kns://wallpaper.knsrc/api.kde-look.org/1365306,kns://wallpaper.knsrc/api.kde-look.org/1436541,kns://wallpaper.knsrc/api.kde-look.org/1436542,kns://sddmtheme.knsrc/api.kde-look.org/1436554
