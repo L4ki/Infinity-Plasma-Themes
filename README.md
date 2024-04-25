@@ -48,6 +48,11 @@ Icons "Infinity-Dark" and "Infinity-Light"
 
 Added new icons: apps 48
 
+Aurorae Themes
+--------------
+
+Update: metadata.desktop
+
 Plasma Theme
 ------------
 
