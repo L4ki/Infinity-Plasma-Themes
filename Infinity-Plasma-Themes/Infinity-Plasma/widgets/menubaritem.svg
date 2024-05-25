@@ -5,7 +5,7 @@
    version="1.1"
    id="svg140"
    sodipodi:docname="menubaritem.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,23 +19,27 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:showpageshadow="false"
-     inkscape:zoom="8.5338082"
-     inkscape:cx="61.109881"
-     inkscape:cy="24.900958"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="4.2669041"
+     inkscape:cx="67.730606"
+     inkscape:cy="38.083818"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg140"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid1509"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="1987">
