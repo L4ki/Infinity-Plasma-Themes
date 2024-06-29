@@ -7,7 +7,7 @@ Comment[en_GB]=Infinity-Dark-Icons
 
 DisplayDepth=32
 
-Inherits=breeze,hicolor
+Inherits=breeze-dark,breeze,hicolor
 
 Example=folder
 
