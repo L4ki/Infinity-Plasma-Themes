@@ -12,7 +12,7 @@ style "toplevel_hack" {
 }
 
 style "chrome_entry" {
-  base[NORMAL]      = @base_color
+  base[NORMAL]  = @base_color
   base[INSENSITIVE] = @base_color
 }
 
