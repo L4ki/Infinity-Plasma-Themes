@@ -40,13 +40,13 @@ __________________________________________________________________
 
 
 
-Changelog: 05.10.2024.
+Changelog: 12.10.2024.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Added new icons: actions
+Added new icons: apps 48
 
 Aurorae Themes
 --------------
@@ -56,11 +56,11 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: checkmarks.svg
+Update widget: action-overlays.svg
 
 GTK-Theme
 ---------
 
-Update: gtkrc
+Update: main.rc
 
 
