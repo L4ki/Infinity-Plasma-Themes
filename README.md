@@ -54,7 +54,7 @@ Aurorae Themes
 Update: metadata.desktop
 
 Plasma Theme
-------------
+-------------
 
 Update widget: clock.svg
 
