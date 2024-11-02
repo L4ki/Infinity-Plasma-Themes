@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    width="200"
    height="200"
    sodipodi:docname="clock.svg"
@@ -18,7 +18,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1007"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -30,8 +30,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="1.4142136"
-     inkscape:cx="104.6518"
-     inkscape:cy="81.670833"
+     inkscape:cx="104.29825"
+     inkscape:cy="82.024384"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -42,18 +42,24 @@
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        empspacing="5"
        enabled="true"
-       visible="true"
+       visible="false"
        id="grid5592"
        type="xygrid"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
        opacity="0.03921569"
        empcolor="#0000ff"
-       empopacity="0.07843137" />
+       empopacity="0.07843137"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <sodipodi:guide
        id="guide4454"
        position="1296.8644,-784.48024"
