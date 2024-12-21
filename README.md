@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 15.12.2024.
+Changelog: 22.12.2024.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -61,6 +61,6 @@ Update widget: plot-background.svg
 GTK-Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 
