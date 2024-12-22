@@ -56,7 +56,7 @@ Update: metadata.desktop
 Plasma Theme
 -------------
 
-Update widget: plot-background.svg
+Update widget: background.svg
 
 GTK-Theme
 ---------
