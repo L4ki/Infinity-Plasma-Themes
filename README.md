@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 22.12.2024.
+Changelog: 29.12.2024.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -56,11 +56,11 @@ Update: metadata.desktop
 Plasma Theme
 -------------
 
-Update widget: background.svg
+Update widget: button.svg
 
 GTK-Theme
 ---------
 
-Update: hacks.rc
+Update: styles
 
 
