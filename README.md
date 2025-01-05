@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 29.12.2024.
+Changelog: 05.01.2025.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -61,6 +61,6 @@ Update widget: button.svg
 GTK-Theme
 ---------
 
-Update: styles
+Update: hacks-dark.rc
 
 
