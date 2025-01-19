@@ -40,13 +40,13 @@ __________________________________________________________________
 
 
 
-Changelog: 12.01.2025.
+Changelog: 19.01.2025.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Added new icons: actions 22
+Added new icons: apps 48
 
 Aurorae Themes
 --------------
@@ -61,6 +61,6 @@ Update widget: button.svg
 GTK-Theme
 ---------
 
-Update: gtk-3.0
+Update: gtk-4.0
 
 
