@@ -40,13 +40,13 @@ __________________________________________________________________
 
 
 
-Changelog: 06.04.2025.
+Changelog: 14.04.2025.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Added new icons: apps 22
+Added new icons: apps 24
 
 Plasma Theme
 -------------
@@ -56,6 +56,6 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 
