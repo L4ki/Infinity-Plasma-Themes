@@ -40,7 +40,7 @@ __________________________________________________________________
 
 
 
-Changelog: 18.05.2025.
+Changelog: 25.05.2025.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
@@ -56,5 +56,5 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: gtkrc
+Update: main.rc
 
