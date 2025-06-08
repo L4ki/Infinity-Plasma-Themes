@@ -53,6 +53,7 @@ Plasma Theme
 
 Update widget: menubaritem
 
+GTK-Theme
 ---------
 
 Update: hacks.rc
