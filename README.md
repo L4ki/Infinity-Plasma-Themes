@@ -38,13 +38,13 @@ Screenshots:
 
 __________________________________________________________________
 
-Changelog: 02.11.2025.
+Changelog: 09.11.2025.
 ----------------------
 
 Icons "Infinity-Dark" and "Infinity-Light"
 -------------------------------------------
 
-Added new icons: actions 22
+Added new icons: apps 22
 
 Plasma Theme
 -------------
@@ -54,4 +54,4 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: gtkrc
+Update: main.rc
